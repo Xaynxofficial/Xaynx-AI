@@ -4,7 +4,7 @@ Effective Date: November 16, 2026
 
 # Payment, subscription & refund policy
 
-Secured by Lemon Squeezy Infrastructure • Document: XAYNX-PAY-2026/V1
+Secured by Lemon Squeezy Infrastructure•Doküman: XAYNX-PAY-2026/V1
 This Payment, Subscription, and Refund Policy governs the legal terms and operational principles concerning the purchase, billing, recurring renewals, cancellation, and refund procedures for digital AI services provided by Xaynx AI Teknoloji ("Company", "we", or "platform").
 
 1-Click CancellationNo long-term commitments. Cancel anytime directly from your Billing dashboard.
@@ -28,8 +28,10 @@ All online payment processing, subscription transactions, and recurring billing 
 
 Xaynx AI provides monthly and annual subscription tiers tailored to personal and professional development workflows:
 
-- **Starter Pack:** $9.99 / month or $84 / year billed annually ($7.00/mo effective).
-- **Pro Power:** $20.00 / month or $192 / year billed annually ($16.00/mo effective).
+- **Starter:** $9.99 / month or $84 / year billed annually ($7.00/mo effective).
+- **Student:** $3.95 / month (localized pricing: ₺199 / mo) or $3.19 / month billed annually (₺162 / mo effective). Available to eligible individual students; academic eligibility verification may be requested.
+- **Pro:** $20.00 / month or $192 / year billed annually ($16.00/mo effective).
+- **Enterprise:** $89.00 / month or $864 / year billed annually ($72.00/mo effective), or custom enterprise invoicing and tailored team agreements via contact@xaynx.co m.
 
 All subscriptions renew automatically at the end of each billing cycle (monthly or yearly) using the stored payment method, unless cancelled prior to the renewal date. An automated notification is sent prior to each renewal.
 
@@ -61,7 +63,7 @@ Xaynx AI provides real-time digital computing resources, AI model inferences, an
 
 The security and privacy of user payment details are safeguarded through top-tier financial technology protocols:
 
-- **PCI-DSS Seviye 1 Sertifikasyonu:** PCI-DSS Level 1 certified architecture, the highest standard in global payment security.
+- **PCI-DSS Level 1 Certification:** PCI-DSS Level 1 certified architecture, the highest standard in global payment security.
 - **256-Bit TLS 1.3 Encryption:** All checkout sessions are encrypted end-to-end via TLS 1.3.
 - **Zero Card Storage Policy:** Credit card numbers, expiration dates, and CVVs are NEVER logged, seen, or stored on Xaynx servers.
 - **3D Secure Verification:** Two-factor authentication and 3D Secure verification prevent unauthorized charge attempts.
