@@ -6,12 +6,17 @@ Official public repository for **XaynxAI** (`https://xaynxai.com`) legal documen
 
 ---
 
-## Core Legal & Intellectual Property Documents
+## Core Legal, Trust & Compliance Documents
 
 | Document | Description |
 | :--- | :--- |
 | [LICENSE](./LICENSE) | Proprietary Commercial Software License Agreement (All Rights Reserved) |
 | [COPYRIGHT_AND_BRAND_NOTICE.md](./COPYRIGHT_AND_BRAND_NOTICE.md) | Brand, Logo, Custom Xaynx SVG Icon Set & Typography Notice |
+| [BRAND_GUIDELINES.md](./BRAND_GUIDELINES.md) | Official XaynxAI Brand & Visual Identity Usage Rules |
+| [ACCEPTABLE_USE_POLICY.md](./ACCEPTABLE_USE_POLICY.md) | Acceptable Use Policy (AUP) & Prohibited Activities |
+| [AI_SAFETY_AND_TRANSPARENCY.md](./AI_SAFETY_AND_TRANSPARENCY.md) | AI Safety, No-Training Commitment & EU AI Act Art. 50 Transparency |
+| [SUBPROCESSORS.md](./SUBPROCESSORS.md) | Infrastructure, Cloud, Payment & AI Sub-Processors Directory |
+| [DMCA_AND_TAKEDOWN_POLICY.md](./DMCA_AND_TAKEDOWN_POLICY.md) | DMCA, FSEK, Law No. 5651 & EU DSA Notice-and-Action Procedure |
 | [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) | Third-Party Open-Source Software, Model, Skill & Font Attributions |
 | [SECURITY.md](./SECURITY.md) | Responsible Security Vulnerability Disclosure Policy |
 
