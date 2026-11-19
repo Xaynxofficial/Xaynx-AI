@@ -1,41 +1,41 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/age-policy
+> Official Live Page: https://xaynxai.com/age-policy
 
-Yürürlük Tarihi: 16 Kasım 2026
+Effective Date: November 16, 2026
 
-# Yaş ve sorumlu kullanım politikası
+# Age & responsible use policy
 
-Xaynx AI, her yaştan kullanıcının dijital güvenliğini korumayı ve yapay zekâ araçlarının etik, bilinçli ve sorumlu biçimde kullanılmasını sağlamayı amaçlar. Platformumuzda yaş sınırları ve veli izni kuralları uluslararası çocuk güvenliği ve veri koruma standartları çerçevesinde uygulanır.
-
----
-
-## 1. 15 Yaşından Büyük Kullanıcılar İçin Sorumlu Kullanım
-
-15 yaşından büyük kullanıcılar Xaynx AI platformunu doğrudan kullanabilirler; ancak tüm yapay zekâ etkileşimlerinde dikkatli, bilinçli ve sorumlu davranmakla yükümlüdürler:
-
-- **Çıktıların Doğrulanması:** Yapay zekâ tarafından üretilen kod, metin, görsel veya analizler hata içerebilir; kritik akademik, mesleki, hukuki veya sağlık kararlarında mutlaka bağımsız doğrulama yapılmalıdır.
-- **Kişisel Veri ve Gizlilik Hassasiyeti:** Sohbetlere veya canlı kamera/ekran paylaşımı araçlarına başkalarına ait gizli bilgiler, kimlik verileri veya şifreler girilmemelidir.
-- **Etik ve Güvenli Kullanım:** Platform; siber zorbalık, yanıltıcı içerik (deepfake), akademik ihlal veya üçüncü kişi haklarına zarar veren amaçlarla kullanılamaz.
+Xaynx AI is committed to protecting the digital safety of all users and promoting the ethical, mindful, and responsible use of artificial intelligence tools in accordance with international child safety and data protection standards.
 
 ---
 
-## 2. 15 Yaş ve Altındaki Kullanıcılar İçin Ebeveyn / Yasal Vasi İzni
+## 1. Responsible Use for Users Over 15
 
-15 yaş ve altındaki kullanıcılar, Xaynx AI platformuna yalnızca ebeveynlerinin veya yasal vasilerinin açık izni ve gözetimi altında kayıt olabilir ve platformu kullanabilirler.
+Users over 15 years of age may use the Xaynx AI platform directly, provided they act carefully, critically, and responsibly:
 
-- **Veli Onayı ve Sorumluluğu:** 15 yaş ve altındaki bir kullanıcının hesap oluşturması, ebeveyn veya yasal vasisinin Kullanım Koşulları'nı inceleyerek bu kullanıma izin verdiği anlamına gelir. Hesap kullanımı ve güvenlik ayarları veli gözetiminde yönetilmelidir.
-- **Uluslararası Çocuk Koruma Standartları:** Kullanıcının ikamet ettiği ülkede dijital rıza yaşı 15'ten yüksekse (ör. GDPR Madde 8 kapsamında bazı AB ülkelerinde 16 yaş veya ABD COPPA kapsamında 13 yaş kuralları), yerel mevzuatta öngörülen daha koruyucu yaş ve ebeveyn onayı şartları esas alınır.
-
----
-
-## 3. Reşit Olmayanların Korunması, Reklam Yasağı ve Sıfır Tolerans
-
-- **Reşit Olmayanlara Hedefli Reklam ve Profilleme Yasağı (AB DSA m. 28 / 5651):** Platformumuzda üçüncü taraf reklam ağı veya reklam takip çerezi kullanılmamaktadır. 18 yaş altındaki kullanıcılara yönelik hiçbir şekilde davranışsal profilleme, kişiselleştirilmiş reklam veya ticari takip uygulanmaz.
-- **Çocuk Güvenliği Sıfır Tolerans Politikası (CSAM / CSEA):** Yapay zekâ araçlarımızda (metin, görsel, ses veya video dahil) çocukların cinsel istismarına, sömürüsüne veya güvenliğini tehlikeye atan zararlı içerik üretimine karşı kesin sıfır tolerans uygulanır. Tespit edilen hesaplar önceden bildirim yapılmaksızın kalıcı olarak kapatılır ve yasal yükümlülükler gereği yetkili adli makamlara (ve ilgili uluslararası mercilere) bildirilir.
+- **Verification of Outputs:** AI-generated code, text, or media may contain inaccuracies; always verify outputs independently before relying on them for critical decisions.
+- **Personal Data Care:** Do not enter passwords, government IDs, or confidential third-party personal data into prompts or live capture tools.
+- **Ethical & Safe Conduct:** The platform must not be used for harassment, deceptive deepfakes, or any activity that harms the rights or safety of others.
 
 ---
 
-## 4. Ebeveyn / Vasi Hakları ve Hesap Kaldırma Talepleri
+## 2. Parental or Legal Guardian Permission (Ages 15 and Under)
 
-Bir ebeveyn veya yasal vasi, izni olmadan 15 yaş ve altındaki bir çocuğa ait hesap oluşturulduğunu fark ederse; hesabın derhal kapatılmasını ve ilişkili tüm verilerin kalıcı olarak silinmesini talep edebilir. Başvurular en kısa sürede incelenerek sonuçlandırılır:
+Users aged 15 and under may only register for and use Xaynx AI with the explicit permission and supervision of a parent or legal guardian.
+
+- **Guardian Consent & Oversight:** Account creation by a user aged 15 or under requires prior authorization from a parent or legal guardian who has reviewed the Terms of Service and supervises platform usage.
+- **International Youth Protection Standards:** Where local laws (such as GDPR Article 8 or US COPPA) specify higher digital consent thresholds or stricter parental verification rules, the more protective statutory standard applies.
+
+---
+
+## 3. Protection of Minors, No Targeted Ads & Zero Tolerance
+
+- **No Targeted Advertising or Profiling of Minors (EU DSA Art. 28 / Law No. 5651):** Our platform does not operate third-party ad networks or commercial ad trackers. Under no circumstances are behavioral profiling, targeted advertising, or commercial tracking applied to users under 18.
+- **Child Safety Zero-Tolerance Policy (CSAM / CSEA):** We enforce strict zero tolerance against Child Sexual Abuse Material (CSAM), Child Sexual Exploitation and Abuse (CSEA), or any harmful content involving minors across all AI tools. Violating accounts are permanently terminated without notice and reported to competent law enforcement and statutory authorities.
+
+---
+
+## 4. Parental Rights & Account Removal Requests
+
+If a parent or legal guardian becomes aware that a child aged 15 or under has created an account without permission, they may request immediate account termination and permanent data erasure by contacting:
 
 [contact@xaynx.co m](mailto:contact@xaynx.co m)

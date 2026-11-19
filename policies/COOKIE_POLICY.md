@@ -1,54 +1,54 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/cookies
+> Official Live Page: https://xaynxai.com/cookies
 
-Yürürlük Tarihi: 16 Kasım 2026
+Effective Date: November 16, 2026
 
-# Çerez ve depolama politikası
+# Cookie & storage policy
 
-İşbu Çerez ve Yerel Depolama Teknolojileri Politikası, Xaynx AI Teknoloji ("Şirket", "biz" veya "bizim") tarafından işletilen dijital platformlar, web uygulamaları ve API servislerinde kullanılan çerezlerin (cookies), tarayıcı istemci depolama birimlerinin (localStorage, sessionStorage) ve oturum teknolojilerinin kullanım usul ve esaslarını açıklamaktadır.
+This Cookie and Local Storage Policy outlines the principles and management mechanisms of cookies and client-side web storage (localStorage, sessionStorage) utilized across digital applications and websites operated by Xaynx AI Teknoloji ("Company", "we", or "our").
 
-**Gizlilik Önceliği Bildirimi:** Xaynx AI, kullanıcı gizliliğini temel ilke kabul eder. Platformumuzda üçüncü taraf reklam veya çapraz site kullanıcı takip (ad tracking) çerezleri kesinlikle kullanılmaz; yalnızca sistemin çalışması için zorunlu ve işlevsel parametreler tutulur.
-
----
-
-## 1. Çerez ve İstemci Depolama Tanımı
-
-Çerezler, bir web sitesini ziyaret ettiğinizde tarayıcınız aracılığıyla cihazınıza kaydedilen küçük boyutlu metin dosyalarıdır. Platformumuzda çerezler ve istemci taraflı depolama mekanizmaları; oturum sürekliliğinin sağlanması, sistem tercihlerinin (tema, dil, aktif çalışma alanı) muhafaza edilmesi ve siber güvenliğin temini amacıyla asgari düzeyde kullanılmaktadır.
+**Privacy-First Commitment:** Xaynx AI strictly refuses third-party cross-site behavioral advertising or tracking cookies. We utilize only strictly necessary and functional parameters essential for platform performance.
 
 ---
 
-## 2. Kullanılan Çerez Kategorileri
+## 1. Definition of Cookies & Client-Side Storage
 
-- **a) Zorunlu Çerezler (Strictly Necessary):** Platformun temel işlevlerini ifa edebilmesi, güvenli kullanıcı kimlik doğrulaması (Clerk Authentication) ve sayfa navigasyonu için zorunlu olan teknik unsurlardır. Kapatılmaları halinde platform hizmet veremez.
-- **b) İşlevsel Depolama Parametreleri (Functional Parameters):** Kullanıcı arayüz tercihleri (Koyu/Açık tema), seçili dil parametresi ve aktif çalışma alanı yetkilendirmelerinin hatırlanmasını sağlayan unsurlardır.
-- **c) Performans ve Önbellek Depolaması (Performance & Cache):** Yapay zeka yanıtlarının hızlı yüklenmesi, çevrimdışı veri bütünlüğü ve oturum senkronizasyonu amacıyla istemci yerel hafızasında tutulan şifreli parametrelerdir.
+Cookies are small data files placed on your device via your web browser when visiting a website. On our platform, cookies and client-side storage mechanisms are utilized at minimal required levels solely to maintain active sessions, preserve user preferences (theme, language), and ensure cyber security.
 
 ---
 
-## 3. Kullanılan Çerez ve Depolama Envanteri
+## 2. Categories of Storage & Cookies Used
 
-Platformumuzda istemci tarafında tutulan temel çerez ve yerel depolama anahtarları aşağıda listelenmiştir:
+- **a) Strictly Necessary Cookies:** Technical essentials mandatory for core platform operations, secure user authentication (Clerk Authentication), and route navigation. Without these, the service cannot function.
+- **b) Functional Storage Parameters:** Parameters that persist UI preferences (Dark/Light mode), language selection, and active workspace permissions.
+- **c) Performance & Cache Storage:** Encrypted parameters cached in client storage to optimize AI response latency, offline data consistency, and seamless session sync.
 
-| Tanımlayıcı / Anahtar | Kategori | İşleme Amacı | Saklama Süresi |
+---
+
+## 3. Cookie & Local Storage Inventory
+
+Below is the detailed technical inventory of client-side cookies and storage keys used on our platform:
+
+| Identifier / Key | Category | Purpose | Retention |
 | --- | --- | --- | --- |
-| __session / clerk_token | Zorunlu | Oturum yetkilendirmesi ve güvenli kimlik doğrulama | Oturum Süresince |
-| xaynx_theme | İşlevsel | Kullanıcı arayüz tema tercihi (Açık / Koyu) | 1 Yıl |
-| xaynx_language | İşlevsel | Arayüz dil tercihi (tr, en, es) | 1 Yıl |
-| xaynx_team_workspaces | İşlevsel | Çalışma alanı yetki ve üyelik önbelleği | Kalıcı / Senkronize |
-| xaynx_developer_api_keys | İşlevsel | Geliştirici REST API ve MCP anahtarları yerel önbelleği | Kalıcı / Kullanıcı Silene Kadar |
-| xaynx_user_memories | İşlevsel | Kullanıcı tercihlerine göre optimize edilen yapay zeka hafıza verileri | Kalıcı / Kullanıcı Sıfırlayana Kadar |
+| __session / clerk_token | Strictly Necessary | Session authorization & secure identity authentication | Session duration |
+| xaynx_theme | Functional | User UI theme preference (Light / Dark) | 1 Year |
+| xaynx_language | Functional | Interface language preference (tr, en, es) | 1 Year |
+| xaynx_team_workspaces | Functional | Workspace permissions and membership cache | Persistent / Synced |
+| xaynx_developer_api_keys | Functional | Local cache for developer REST API and MCP keys | Until revoked by user |
+| xaynx_user_memories | Functional | Optimized user preference memories for AI context | Until reset by user |
 
 ---
 
-## 4. Çerez Tercihlerinin ve Donanım İzinlerinin Yönetilmesi
+## 4. Managing Cookie Preferences & Hardware Permissions
 
-- **4.1. Tarayıcı Çerezlerinin Yönetimi:** Kullanıcılar, tarayıcı ayarları aracılığıyla çerezleri engelleme veya silme hakkına sahiptir. Ancak zorunlu çerezlerin devre dışı bırakılması halinde Platformun kimlik doğrulama, çalışma alanı yönetimi ve yapay zeka servislerinin çalışmasında aksaklıklar meydana gelebilecektir.
-- **4.2. Mikrofon, Kamera ve Ekran Paylaşımı İzinleri (WebRTC):** Sesli Asistan, Canlı Kamera ve Ekran Paylaşımı (Vision Co-Pilot) modları kullanılırken tarayıcınız donanım erişim izni talep eder. Bu izinler hiçbir çerez veya kalıcı depolama alanı oluşturmaz ve tarayıcınızın adres çubuğundaki kilit simgesine (🔒) tıklanarak dilediğiniz an geri alınabilir veya yeniden yetkilendirilebilir.
+- **4.1. Browser Cookie Management:** Users retain the right to block or remove cookies via web browser settings. Disabling strictly necessary cookies may impede proper functioning of authentication and AI services.
+- **4.2. Microphone, Camera & Screen Share Permissions (WebRTC):** When invoking Voice Assistant or Vision Co-Pilot modes, your browser requests hardware access permissions. These permissions generate no cookies or persistent trackers and can be revoked anytime via the lock icon (🔒) in your browser address bar.
 
 ---
 
-## 5. İletişim
+## 5. Contact
 
-İşbu Çerez Politikası veya çerez yönetimi ile ilgili tüm sorularınız için bizimle iletişime geçebilirsiniz:
+For inquiries regarding this Cookie Policy or storage preferences, please contact us:
 
 [contact@xaynx.co m](mailto:contact@xaynx.co m)
 

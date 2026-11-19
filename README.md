@@ -11,27 +11,27 @@ Official public repository for **XaynxAI** (`https://xaynxai.com`) legal documen
 | Document | Description |
 | :--- | :--- |
 | [LICENSE](./LICENSE) | Proprietary Commercial Software License Agreement (All Rights Reserved) |
-| [COPYRIGHT_AND_BRAND_NOTICE.md](./COPYRIGHT_AND_BRAND_NOTICE.md) | Marka, Logo, Özgün Xaynx SVG İkon Seti ve Font Lisans Bildirimi |
+| [COPYRIGHT_AND_BRAND_NOTICE.md](./COPYRIGHT_AND_BRAND_NOTICE.md) | Brand, Logo, Custom Xaynx SVG Icon Set & Typography Notice |
 | [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) | Third-Party Open-Source Software, Model, Skill & Font Attributions |
 | [SECURITY.md](./SECURITY.md) | Responsible Security Vulnerability Disclosure Policy |
 
 ---
 
-## Platform Policies (Resmî Politikalar — Birebir Canlı Metinler)
+## Platform Policies (Official Live Policy Texts)
 
-| Politika | Dosya | Canlı Sayfa |
+| Policy | Document | Live Page |
 | :--- | :--- | :--- |
-| **Hizmet Şartları (Kullanım Koşulları)** | [TERMS_OF_SERVICE.md](./policies/TERMS_OF_SERVICE.md) | [xaynxai.com/terms](https://xaynxai.com/terms) |
-| **Gizlilik Politikası** | [PRIVACY_POLICY.md](./policies/PRIVACY_POLICY.md) | [xaynxai.com/privacy](https://xaynxai.com/privacy) |
-| **Çerez Politikası** | [COOKIE_POLICY.md](./policies/COOKIE_POLICY.md) | [xaynxai.com/cookies](https://xaynxai.com/cookies) |
-| **KVKK & GDPR Aydınlatma Metni** | [KVKK_AND_GDPR.md](./policies/KVKK_AND_GDPR.md) | [xaynxai.com/kvkk](https://xaynxai.com/kvkk) |
-| **Ödeme ve İade Politikası** | [PAYMENT_AND_REFUND_POLICY.md](./policies/PAYMENT_AND_REFUND_POLICY.md) | [xaynxai.com/payment-policy](https://xaynxai.com/payment-policy) |
-| **Cihaz Takip Politikası** | [DEVICE_TRACKER_POLICY.md](./policies/DEVICE_TRACKER_POLICY.md) | [xaynxai.com/device-tracker-policy](https://xaynxai.com/device-tracker-policy) |
-| **Site Yayınlama Kuralları** | [SITE_PUBLISHING_RULES.md](./policies/SITE_PUBLISHING_RULES.md) | [xaynxai.com/site-publishing-rules](https://xaynxai.com/site-publishing-rules) |
-| **Vitrin Kuralları** | [SHOWCASE_RULES.md](./policies/SHOWCASE_RULES.md) | [xaynxai.com/showcase-rules](https://xaynxai.com/showcase-rules) |
-| **Yaş Politikası** | [AGE_POLICY.md](./policies/AGE_POLICY.md) | [xaynxai.com/age-policy](https://xaynxai.com/age-policy) |
-| **Takım Kuralları** | [TEAM_RULES.md](./policies/TEAM_RULES.md) | [xaynxai.com/team-rules](https://xaynxai.com/team-rules) |
-| **Google API Veri Politikası** | [GOOGLE_API_PRIVACY_POLICY.md](./policies/GOOGLE_API_PRIVACY_POLICY.md) | [xaynxai.com/google-privacy-policy](https://xaynxai.com/google-privacy-policy) |
+| **Terms of Service** | [TERMS_OF_SERVICE.md](./policies/TERMS_OF_SERVICE.md) | [xaynxai.com/terms](https://xaynxai.com/terms) |
+| **Privacy Policy** | [PRIVACY_POLICY.md](./policies/PRIVACY_POLICY.md) | [xaynxai.com/privacy](https://xaynxai.com/privacy) |
+| **Cookie & Storage Policy** | [COOKIE_POLICY.md](./policies/COOKIE_POLICY.md) | [xaynxai.com/cookies](https://xaynxai.com/cookies) |
+| **KVKK & GDPR Notice** | [KVKK_AND_GDPR.md](./policies/KVKK_AND_GDPR.md) | [xaynxai.com/kvkk](https://xaynxai.com/kvkk) |
+| **Payment & Refund Policy** | [PAYMENT_AND_REFUND_POLICY.md](./policies/PAYMENT_AND_REFUND_POLICY.md) | [xaynxai.com/payment-policy](https://xaynxai.com/payment-policy) |
+| **Device Tracker Policy** | [DEVICE_TRACKER_POLICY.md](./policies/DEVICE_TRACKER_POLICY.md) | [xaynxai.com/device-tracker-policy](https://xaynxai.com/device-tracker-policy) |
+| **Site Publishing Rules** | [SITE_PUBLISHING_RULES.md](./policies/SITE_PUBLISHING_RULES.md) | [xaynxai.com/site-publishing-rules](https://xaynxai.com/site-publishing-rules) |
+| **Showcase Rules** | [SHOWCASE_RULES.md](./policies/SHOWCASE_RULES.md) | [xaynxai.com/showcase-rules](https://xaynxai.com/showcase-rules) |
+| **Age & Responsible Use Policy** | [AGE_POLICY.md](./policies/AGE_POLICY.md) | [xaynxai.com/age-policy](https://xaynxai.com/age-policy) |
+| **Team & Workspace Rules** | [TEAM_RULES.md](./policies/TEAM_RULES.md) | [xaynxai.com/team-rules](https://xaynxai.com/team-rules) |
+| **Google API User Data Policy** | [GOOGLE_API_PRIVACY_POLICY.md](./policies/GOOGLE_API_PRIVACY_POLICY.md) | [xaynxai.com/google-privacy-policy](https://xaynxai.com/google-privacy-policy) |
 
 ---
 

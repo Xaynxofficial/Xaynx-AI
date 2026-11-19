@@ -2,7 +2,7 @@
 
 XaynxAI takes the security and privacy of our users and infrastructure seriously.
 
-## Reporting a Vulnerability (Sorumlu Güvenlik Bildirimi)
+## Reporting a Vulnerability
 
 If you discover a security vulnerability in **xaynxai.com**, our APIs, or any XaynxAI service, please report it responsibly **in private** before public disclosure:
 

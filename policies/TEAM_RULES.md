@@ -1,68 +1,68 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/team-rules
+> Official Live Page: https://xaynxai.com/team-rules
 
-Yürürlük Tarihi: 16 Kasım 2026 • Son Güncelleme: Kasım 2026
+Effective Date: November 16, 2026 • Last Updated: November 2026
 
-# Ekip ve çalışma alanı ilkeleri
+# Team workspace guidelines
 
-İşbu Ekip Çalışma Alanı Yönetmeliği ("Sözleşme"), Xaynx AI Platformu üzerinde bir **Ekip Çalışma Alanı**(Team Workspace) oluşturan, alana üye davet eden veya daveti kabul ederek çalışma alanına dahil olan tüm kullanıcıların ("Kullanıcılar" veya "Ekip Üyeleri") tabi olduğu çalışma ilkelerini, fikri mülkiyet sınırlarını, gizlilik ve veri izolasyonu taahhütlerini belirler.
+This Team Workspace Agreement ("Agreement") outlines the operating principles, intellectual property rights, confidentiality, and data isolation obligations for all users who create, manage, or join a **Team Workspace**on the Xaynx AI Platform.
 
-**Bağımsızlık Bildirimi:** Xaynx AI bağımsız bir yapay zeka ve ortak çalışma teknolojileri platformudur. Çalışma alanlarında üretilen tüm promptlar, belgeler ve kod analizleri ekibin kendi münhasır fikri mülkiyetindedir; Xaynx AI bu veriler üzerinde telif veya mülkiyet iddiasında bulunmaz.
-
----
-
-## 1. Çalışma Alanı Tanımı ve Mülkiyet Esasları
-
-Platform üzerinde bireysel *Kişisel Çalışma Alanı*ve çok kullanıcılı *Ekip Çalışma Alanı*olmak üzere iki farklı mimari bulunmaktadır. Ekip çalışma alanlarının mülkiyeti aşağıdaki prensiplerle korunur:
-
-- **Kurucu (Owner) Statüsü:** Ekip çalışma alanını ilk oluşturan kullanıcı 'Kurucu' unvanına sahiptir. Kurucu, alanın ismini düzenleme, üye rolleri atama, üye çıkarma ve çalışma alanını tamamen silme haklarına sahiptir.
-- **Fikri Mülkiyet ve İçerik Hakları:** Ekip alanında paylaşılan veya ortak AI oturumlarında üretilen promptlar, belgeler ve kaynak kodlar yalnızca ekibin birlikte mülkiyetindedir. Xaynx AI kullanıcı verilerini halka açık yapay zeka modellerini eğitmek amacıyla kullanmaz.
-- **Üye Ayrılması ve Veri Sürekliliği:** Bir ekip üyesi çalışma alanından ayrıldığında veya yönetici tarafından çıkarıldığında, üyenin çalışma alanı içinde paylaştığı mesajlar, yüklediği belgeler ve ortak AI çıktıları ekip çalışma alanının sürekliliği kapsamında çalışma alanında kalmaya devam eder; ayrılan üye bu ortak içeriklere erişimini kaybeder.
+**Independence Notice:** Xaynx AI is an independent AI platform. All prompts, code, and project files generated within a team workspace remain the exclusive intellectual property of that team.
 
 ---
 
-## 2. Gizlilik, Veri İzolasyonu ve Güvenlik Standartları
+## 1. Workspace Definition & Ownership
 
-Ekip çalışma alanlarında yürütülen tüm faaliyetler kurumsal düzeyde veri ayrıştırması (tenancy segregation) ve kriptografik koruma ilkelerine tabidir:
+The platform provides individual Personal Workspaces and multi-user collaborative Team Workspaces under the following ownership terms:
 
-- **Kapsamlı Veri İzolasyonu:** Her çalışma alanı kendi bağımsız şifrelenmiş veri tablosunda ve oturum belleğinde tutulur. Diğer ekipler veya harici kullanıcılar sizin alanınızdaki mesajlara, dosyalara veya notlara hiçbir koşulda erişemez.
-- **Bilgi Güvenliği Yükümlülüğü:** Ekip üyeleri, çalışma alanında yer alan ticari sırları, tescilli kod bloklarını veya gizli bilgileri çalışma alanı yöneticisinin izni olmaksızın dışarıya aktaramaz.
-
----
-
-## 3. Ortak Yapay Zeka (AI) Oturumları ve Prompt Standartları
-
-Ortak AI oturumları (@ai ve @xaynx komutları), tüm ekip üyelerinin gerçek zamanlı olarak aynı yapay zeka modeline talimat verdiği ve ortak çıktılar ürettiği işbirliği alanıdır:
-
-- **Şeffaflık İlkesi:** Ortak AI sohbetine gönderilen tüm istemler (prompt) ve yapay zekanın ürettiği yanıtlar o anda odadaki tüm yetkili ekip üyelerine görünürdür.
-- **Yasaklı Faaliyetler:** Kötü amaçlı yazılım geliştirme, güvenlik açıklarını suistimal etme, yetkisiz sızma testleri veya yasalara aykırı materyal üretimi amaçlı promptların çalıştırılması kesinlikle yasaktır.
-- **Çıktı Doğrulama:** Yapay zeka tarafından üretilen kodların, hukuki metinlerin veya analizlerin üretim ortamında kullanılmadan önce insan denetiminden geçirilmesi ekibin kendi sorumluluğundadır.
-- **Yapay Zekâ Şeffaflığı (EU AI Act m. 50) ve Yaş Uygunluğu:** Ortak oturumlardaki @ai / @xaynx yanıtları yapay zekâ tarafından sentetik olarak üretilmektedir. Çalışma alanına davet edilen tüm üyeler Yaş ve Sorumlu Kullanım Politikası'na (/age-policy) tabi olup, 15 yaş ve altındaki kullanıcılar yalnızca ebeveyn veya yasal vasi izniyle davet edilebilir.
+- **Owner Status:** The initial creator holds Owner status, with full authority over naming, invitations, permission levels, and workspace termination.
+- **Intellectual Property Rights:** Content, prompts, and source code generated within a team belong to the team. Xaynx AI never uses proprietary workspace data to train public models.
+- **Member Departure & Data Continuity:** When a member leaves or is removed from a Team Workspace, messages, uploaded assets, and collaborative AI outputs created within the workspace remain part of the team workspace for continuity, while the departed member loses access.
 
 ---
 
-## 4. Rol Hiyerarşisi ve Yetkilendirme Standartları
+## 2. Privacy, Data Isolation & Security Standards
 
-Ekip çalışma alanında yetki karmaşasını önlemek ve veri bütünlüğünü sağlamak amacıyla 4 kademeli rol yapısı uygulanır:
+All workspace interactions are governed by enterprise-grade data segregation and technical security protocols:
 
-- **1. Kurucu (Owner)**Tam idari yetkiye sahiptir. Çalışma alanını kalıcı olarak silme, mülkiyeti devretme, tüm üyeleri ve kanalları yönetme hakkı bulunur.
-- **2. Yönetici (Admin)**Ekip alanına yeni üyeler davet edebilir, üye ve izleyici rollerini düzenleyebilir, davet bağlantılarını yönetebilir.
-- **3. Ekip Üyesi (Member)**Ekip sohbetine katılabilir, anlık mesajlaşabilir, dosya ve bağlantı paylaşabilir, ortak AI oturumlarında aktif prompt çalıştırabilir.
-- **4. Görüntüleyici (Viewer)**Yalnızca okuma yetkisine sahiptir. Sohbetleri, paylaşılan dosyaları ve AI yanıtlarını görüntüleyebilir; ancak mesaj yazamaz veya dosya yükleyemez.
+- **Strict Workspace Isolation:** Each workspace is segregated in its own isolated memory container. No external teams or users can ever inspect your chats or documents.
+- **Confidentiality & Non-Disclosure:** Team members agree not to extract or distribute proprietary workspace intelligence without authorization.
 
 ---
 
-## 5. İhlal Durumu, Fesih ve Yaptırımlar
+## 3. Shared AI Sessions & Prompt Governance
 
-İşbu ilkelerin veya Xaynx AI Genel Kullanım Şartları'nın ihlal edilmesi durumunda Platform aşağıdaki yaptırımları uygulama hakkını saklı tutar:
+Shared AI sessions enable live, synchronous prompting across team members using shared model context:
 
-- **Erişimin Sınırlandırılması:** Taciz, spam veya kötüye kullanım sergileyen kullanıcılar ilgili çalışma alanından tek taraflı olarak çıkarılabilir.
-- **Çalışma Alanının Kapatılması:** Yasadışı faaliyetler barındırdığı tespit edilen ekip alanları kalıcı olarak dondurulabilir veya feshedilebilir.
+- **Transparency Principle:** All prompts and generated responses dispatched in the team room are visible in real-time to all authorized members.
+- **Prohibited Conduct:** Prompts intended to generate malware, exploit vulnerabilities, or infringe third-party statutory rights are strictly barred.
+- **Output Verification:** Human verification of AI-generated code or analysis prior to production use remains the sole responsibility of the team.
+- **AI Transparency (EU AI Act Art. 50) & Age Eligibility:** Responses from @ai / @xaynx in shared sessions are synthetically generated by AI. All invited members are subject to our Age & Responsible Use Policy (/age-policy); users aged 15 and under may only participate with parental or legal guardian permission.
 
 ---
 
-## Hukuki İletişim
+## 4. Role Hierarchy & Access Governance
 
-Ekip çalışma alanları yönetmeliği, kurumsal lisanslama veya veri güvenliği ile ilgili sorularınız için Hukuk ve Uyumluluk departmanımızla iletişime geçebilirsiniz:
+To ensure robust access control, each workspace enforces four standardized permission tiers:
+
+- **1. Owner**Full governance. Holds exclusive rights to terminate workspaces, manage roles, transfer ownership, and administer channels.
+- **2. Admin**Can invite collaborators, manage member permissions, and update workspace settings.
+- **3. Member**Can send messages, share assets, and execute collaborative AI prompts in real time.
+- **4. Viewer**Read-only access. Can inspect conversations and AI findings without message-posting or uploading capabilities.
+
+---
+
+## 5. Violations, Termination & Sanctions
+
+Upon breach of these principles or general platform terms, Xaynx AI reserves the right to apply the following enforcement measures:
+
+- **Access Suspension:** Members engaging in abusive or unauthorized behavior may have their workspace access revoked.
+- **Workspace Termination:** Workspaces engaging in illegal operations or systematic abuse will be terminated without prior notice.
+
+---
+
+## Legal Contact
+
+For inquiries regarding workspace governance, corporate compliance, or data security, please contact our Legal Department:
 
 [contact@xaynx.co m](mailto:contact@xaynx.co m)
 

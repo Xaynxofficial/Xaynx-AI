@@ -1,60 +1,60 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/kvkk
+> Official Live Page: https://xaynxai.com/kvkk
 
-Yürürlük Tarihi: 16 Kasım 2026
+Effective Date: November 16, 2026
 
-# KVKK ve GDPR aydınlatma metni
+# KVKK & GDPR privacy notice
 
-İşbu Aydınlatma Metni, 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) madde 10 ile Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ ve AB Genel Veri Koruma Tüzüğü (GDPR) uyarınca, Veri Sorumlusu sıfatıyla Xaynx AI Teknoloji Anonim Şirketi ("Şirket") tarafından, Platform kullanıcılarının kişisel verilerinin işlenme süreçlerine ilişkin olarak aydınlatılması amacıyla tanzim edilmiştir.
-
----
-
-## 1. İşlenen Kişisel Veri Kategorileri ve Biyometrik Veri Ayrımı
-
-Şirketimiz tarafından sunulan Hizmetler kapsamında işlenen kişisel veriler aşağıda kategorize edilmiştir:
-
-- **Kimlik Verisi:** Ad, soyad, kullanıcı rumuzu, profil görseli.
-- **İletişim Verisi:** Elektronik posta adresi.
-- **Müşteri İşlem ve Çalışma Alanı Verisi:** Sohbet kayıtları, prompt metinleri, kod analizleri, çalışma alanı üyelikleri, kullanıcı rolleri ve abonelik türü. (Bu veriler üçüncü taraf kamuya açık yapay zeka modellerinin genel eğitimi amacıyla kesinlikle kullanılmaz ve devredilmez).
-- **Canlı Ses ve Kamera Akış Verisi (Biyometrik Veri Ayrımı):** Sesli komut ve kamera etkileşimlerinde anlık olarak işlenen ses ve görüntü verileri. Önemle belirtilir ki; bu veriler KVKK m. 6 ve GDPR m. 9 kapsamında biyometrik kimlik doğrulama veya yüz tanıma amacıyla kesinlikle işlenmemekte olup, münhasıran yapay zeka modelinin anlık içerik çözümlemesi yapabilmesi adına geçici (RAM) olarak işlenmekte ve saklanmamaktadır.
-- **İşlem Güvenliği ve Sistem Telemetrisi Verisi:** Kayıtlı veya misafir tüm oturumlara ilişkin IP adresi, erişim ve bağlantı zaman damgaları, oturum belirteçleri, işletim sistemi/tarayıcı metaverisi ve siber güvenlik/istismar denetim logları (5651 sayılı Kanun ve yasal güvenlik gereksinimleri).
-- **Geliştirici ve Entegrasyon Verisi:** Üretilen API anahtarlarının şifreli ve maskeli kayıtları, izinli web gömme (embed) alan adları ve Model Context Protocol (MCP) üzerinden iletilen araç çağrı kayıtları.
+This Disclosure Notice is issued by Xaynx AI Teknoloji Anonim Şirketi ("Company") as Data Controller pursuant to Article 10 of the Law on Protection of Personal Data No. 6698 ("KVKK") and the EU General Data Protection Regulation ("GDPR") to inform users regarding personal data processing practices.
 
 ---
 
-## 2. Kişisel Veri İşlemenin Hukuki Sebepleri ve Amaçları
+## 1. Categories of Processed Personal Data & Biometric Separation
 
-Kişisel verileriniz, KVKK'nın 5. maddesinin 2. fıkrası ve GDPR Madde 6'da öngörülen hukuki sebeplere dayanılarak aşağıdaki amaçlarla işlenmektedir:
+The categories of personal data processed in connection with our Services are detailed below:
 
-- **Sözleşmenin kurulması veya ifası (KVKK m. 5/2-c, GDPR m. 6/1-b):** Kullanıcı sözleşmesinin tesisi, yapay zeka çıkarımlarının oluşturulması, REST API/MCP altyapısı, kod editörü ve çalışma alanları altyapısının işletilmesi.
-- **Hukuki yükümlülüklerin yerine getirilmesi (KVKK m. 5/2-ç, GDPR m. 6/1-c):** 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi Kanunu gereğince trafik verilerinin saklanması ve yetkili kamu kurumlarının yasal bilgi taleplerinin karşılanması.
-- **Meşru menfaatler için veri işlemenin zorunlu olması (KVKK m. 5/2-f, GDPR m. 6/1-f):** Bilgi güvenliği süreçlerinin yürütülmesi, platform performansının analizi, siber saldırıların tespiti ve kötüye kullanımın engellenmesi.
-
----
-
-## 3. Kişisel Verilerin Aktarılması
-
-Kişisel verileriniz, KVKK’nın 8. ve 9. maddeleri ile GDPR Bölüm V hükümleri çerçevesinde; teknik altyapı, otonom ajan zamanlayıcısı ve bulut depolama/veritabanı sağlayıcıları (Cloudflare, Inc. - D1, R2 ve Workers), yüksek erişilebilirlik ve felaket kurtarma yedekleme sunucusu (Contabo GmbH - AB), kimlik doğrulama hizmeti sunucuları (Clerk, Inc.), ödeme altyapısı sağlayıcıları (Lemon Squeezy, LLC ve Shopier - PCI-DSS uyumlu ödeme ağ geçitleri), e-posta iletim altyapısı (Resend) ve kurumsal yapay zeka çıkarım sağlayıcıları (Google LLC - Gemini API, OpenAI, Groq, OpenRouter) ile standart sözleşme hükümleri (SCC) ve şifreli kanallar tahtında paylaşılmaktadır. Ayrıca yalnızca Kullanıcının açık OAuth onayıyla bağladığı üçüncü taraf eklentiler (Google Workspace, GitHub, LinkedIn, Slack, Notion, Spotify, Canva, Epic Games) kapsamındaki veriler ilgili API'ler üzerinden yalnızca talep edilen işlem için işlenir ve bağlantı tek tıkla iptal edilebilir. Yasal zorunluluk halinde yetkili adli ve idari mercilerle mevzuata uygun olarak aktarım gerçekleştirilir.
+- **Identity Data:** First name, last name, username, profile picture.
+- **Contact Data:** Email address.
+- **User Activity & Workspace Data:** Chat logs, prompt queries, code analysis history, workspace memberships, user permissions, and subscription status. (This data is never used to train third-party public AI foundation models nor transferred).
+- **Real-Time Audio & Camera Stream (Biometric Segregation):** Real-time audio and video feeds processed during voice commands and camera interactions. Note that these inputs are NEVER processed for biometric authentication or facial recognition; they reside in volatile memory (RAM) only during live inference and are never persistently stored.
+- **Security & System Telemetry Logs:** IP address, connection timestamps, session tokens, OS/browser metadata, and cyber security/abuse audit logs for all registered and guest sessions (pursuant to statutory obligations).
+- **Developer & Integration Data:** Hashed and masked records of developer API keys, authorized iframe embed domains, and Model Context Protocol (MCP) tool execution logs.
 
 ---
 
-## 4. İlgili Kişinin Hakları (KVKK Madde 11 ve GDPR)
+## 2. Legal Grounds and Purposes of Data Processing
 
-KVKK'nın 11. maddesi ve GDPR düzenlemeleri uyarınca veri sahipleri, Şirketimize başvurarak aşağıdaki hakları kullanma yetkisine sahiptir:
+Your personal data is processed pursuant to KVKK Article 5(2) and GDPR Article 6 for the following purposes:
 
-- Kişisel verilerinizin işlenip işlenmediğini öğrenme;
-- Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme;
-- Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme;
-- Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme;
-- Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme;
-- Mevzuat şartları çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme (Unutulma Hakkı);
-- Düzeltme ve silme işlemlerinin verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme;
-- Verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhe bir sonucun ortaya çıkmasına itiraz etme;
-- Kanuna aykırı işleme sebebiyle zarara uğranması hâlinde zararın giderilmesini talep etme.
+- **Performance of a Contract (KVKK Art. 5/2-c, GDPR Art. 6/1-b):** Establishment and fulfillment of user contracts, execution of AI inferences, developer REST API/MCP infrastructure, and code workspaces operations.
+- **Compliance with Legal Obligations (KVKK Art. 5/2-ç, GDPR Art. 6/1-c):** Retention of traffic and connection metadata required by statutory regulations and responding to lawful requests from regulatory and judicial authorities.
+- **Legitimate Interests (KVKK Art. 5/2-f, GDPR Art. 6/1-f):** Ensuring cyber security and information integrity, platform performance monitoring, cyber threat detection, and prevention of fraudulent abuse.
 
 ---
 
-## 5. Başvuru Usulü ve İletişim
+## 3. Data Transfers
 
-Yukarıda belirtilen haklarınıza ilişkin taleplerinizi yazılı olarak veya sistemimizde kayıtlı e-posta adresiniz üzerinden Şirketimize iletebilirsiniz. Başvurularınız mevzuat gereğince en geç 30 (otuz) gün içerisinde ücretsiz olarak sonuçlandırılacaktır.
+Your personal data is transferred in accordance with KVKK Articles 8 and 9 and GDPR Chapter V to trusted technical sub-processors—including Cloudflare, Inc. (D1, R2 & Workers), failover backup infrastructure (Contabo GmbH - EU), Clerk, Inc. (authentication), Lemon Squeezy, LLC & Shopier (payment processing), Resend (transactional email), and enterprise AI inference providers (Google LLC - Gemini API, OpenAI, Groq, OpenRouter)—under strict Standard Contractual Clauses and encryption safeguards. Third-party OAuth extensions (Google Workspace, GitHub, LinkedIn, Slack, Notion, Spotify, Canva, Epic Games) are accessed strictly upon explicit user authorization and can be revoked with a single click.
+
+---
+
+## 4. Data Subject Rights (KVKK & GDPR)
+
+Pursuant to KVKK Article 11 and GDPR Articles 15 through 22, data subjects possess the following legal rights:
+
+- Confirm whether your personal data is being processed;
+- Request detailed information regarding the processing;
+- Learn processing purposes and verify compliant usage;
+- Know third parties to whom data is transferred domestically or abroad;
+- Request rectification of incomplete or inaccurate data;
+- Request erasure and permanent deletion of your data (Right to be Forgotten);
+- Request notification of rectifications or erasures to third-party recipients;
+- Object to adverse decisions based solely on automated processing;
+- Demand compensation for damages incurred due to unlawful processing.
+
+---
+
+## 5. Application Procedure & Inquiries
+
+You may submit requests regarding your rights in writing or via your registered email address. Requests will be finalized free of charge within a maximum of 30 days.
 
 [contact@xaynx.co m](mailto:contact@xaynx.co m)

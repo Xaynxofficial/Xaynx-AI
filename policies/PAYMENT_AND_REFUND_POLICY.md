@@ -1,81 +1,81 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/payment-policy
+> Official Live Page: https://xaynxai.com/payment-policy
 
-Yürürlük Tarihi: 16 Kasım 2026
+Effective Date: November 16, 2026
 
-# Ödeme, abonelik ve iade politikası
+# Payment, subscription & refund policy
 
-Lemon Squeezy Güvenceli Ödeme Altyapısı•Doküman: XAYNX-PAY-2026/V1
-İşbu Ödeme, Abonelik ve İade Politikası; Xaynx AI Teknoloji ("Şirket", "biz" veya "platform") tarafından sunulan tüm dijital hizmetler, yapay zeka modelleri, geliştirici araçları ve kurumsal çözümlere ilişkin abonelik satın alma, yenileme, iptal, geri ödeme (iade) ve faturalandırma süreçlerinin yasal çerçevesini ve operasyonel kurallarını belirler.
+Secured by Lemon Squeezy Infrastructure•Doküman: XAYNX-PAY-2026/V1
+This Payment, Subscription, and Refund Policy governs the legal terms and operational principles concerning the purchase, billing, recurring renewals, cancellation, and refund procedures for digital AI services provided by Xaynx AI Teknoloji ("Company", "we", or "platform").
 
-Koşulsuz Tek Tıkla İptalTaahhüt yok. Dilediğiniz an Fatura sayfasından tek tıkla iptal edebilirsiniz.
+1-Click CancellationNo long-term commitments. Cancel anytime directly from your Billing dashboard.
 
-PCI-DSS Seviye 1 GüvenlikKart bilgileriniz asla Xaynx sunucularında saklanmaz; uçtan uca şifrelenir.
+PCI-DSS Level 1Card credentials are never stored on Xaynx servers; handled end-to-end securely.
 
-14 Gün İade GüvencesiTeknik sorun, arıza veya mükerrer çekimlerde ilk 14 gün tam iade hakkı korunur.
-
----
-
-## 1. Yetkili Satış Aracısı (Merchant of Record)
-
-Xaynx AI platformu üzerinden gerçekleştirilen tüm çevrim içi abonelik, paket satın alma ve tahsilat süreçleri, global yetkili satış aracımız (Merchant of Record) olan Lemon Squeezy, LLC tarafından yürütülmektedir.
-
-- **Banka ve Ekstre Açıklaması:** Kredi kartı ekstrenizde veya hesap özetinizde ilgili işlem tutarı "LEMONSQUEEZY* XAYNX"veya "XAYNX AI"olarak yer alacaktır.
-- **Küresel Vergi ve Uyum Yükümlülüğü:** Lemon Squeezy; yerel satış vergileri, Katma Değer Vergisi (KDV / VAT), GST hesaplamaları, faturalandırma ve ödeme güvenliği standartlarına küresel düzeyde tam uyumluluk sağlamaktadır.
+14-Day GuaranteeFull refunds honored within 14 days for service defects, downtime, or double charges.
 
 ---
 
-## 2. Abonelik Paketleri ve Otomatik Faturalandırma
+## 1. Authorized Merchant of Record
 
-Xaynx AI, kullanıcıların geliştirme ve yapay zeka ihtiyaçlarına göre yapılandırılmış aylık ve yıllık abonelik modelleri sunar:
+All online payment processing, subscription transactions, and recurring billing on the Xaynx AI platform are facilitated and completed by our authorized global Merchant of Record, Lemon Squeezy, LLC.
 
-- **Başlangıç (Starter Pack):** $9.99 / ay veya yıllık peşin ödemede $84 / yıl ($7.00/ay avantajı ile).
-- **Pro Power:** $20.00 / ay veya yıllık peşin ödemede $192 / yıl ($16.00/ay avantajı ile).
-
-Tüm ücretli abonelikler, faturalandırma döneminin (30 takvim günü veya 365 takvim günü) sonunda, kullanıcı tarafından önceden iptal edilmediği müddetçe kayıtlı ödeme yönteminden otomatik olarak yenilenir. Yenileme tarihinden önce kullanıcıya kayıtlı e-posta adresi üzerinden bilgilendirme iletilir.
+- **Billing Statement Appearance:** Charges on your credit card or bank statement will appear as "LEMONSQUEEZY* XAYNX"or "XAYNX AI".
+- **Global Tax & Regulatory Compliance:** Lemon Squeezy assumes legal responsibility for local sales tax, VAT/GST collection, invoice issuance, and international commerce compliance.
 
 ---
 
-## 3. Abonelik İptali ve İptal Sonrası Haklar
+## 2. Subscription Tiers & Billing Cycles
 
-Xaynx AI üzerinde hiçbir taahhüt, sözleşme cezası veya gizli cayma bedeli bulunmaz. Kullanıcı dilediği an hiçbir mazeret göstermeksizin aboneliğini sonlandırma hakkına sahiptir. İptal işlemi aşağıdaki kanalların herhangi biri üzerinden derhal gerçekleştirilebilir:
+Xaynx AI provides monthly and annual subscription tiers tailored to personal and professional development workflows:
 
-- Platform içerisindeki Fatura Sayfası (/billing) üzerinden "Aboneliği İptal Et" seçeneğine tıklayarak,
-- Fatura sayfasındaki "Customer Portal" butonuna basarak doğrudan Lemon Squeezy resmi müşteri yönetim ekranı üzerinden,
-- Satın alma işlemi akabinde e-posta adresinize gönderilen resmi makbuzun altındaki "Manage Subscription" bağlantısını kullanarak.
+- **Starter Pack:** $9.99 / month or $84 / year billed annually ($7.00/mo effective).
+- **Pro Power:** $20.00 / month or $192 / year billed annually ($16.00/mo effective).
 
-**İptal Sonrası Haklarınız ve Kesintisiz Kullanım:** Aboneliğinizi iptal ettiğinizde hesabınız anında kapatılmaz veya haklarınız dondurulmaz. Önceden ödemesini yaptığınız mevcut fatura döneminin son saniyesine kadar PRO paketinizin sunduğu tüm ayrıcalıklardan kesintisiz yararlanmaya devam edersiniz. Dönem bittiğinde bir daha asla çekim yapılmaz ve hesabınız güvenle Ücretsiz (Free) pakete aktarılır; projeleriniz ve çalışma alanlarınız silinmez.
-
----
-
-## 4. İade Politikası ve Geri Ödeme Şartları
-
-Xaynx AI; anlık GPU işlem altyapısı, yapay zeka model çıkarımları (inference) ve bulut konteyner kaynakları tüketen dijital bir yazılım platformudur. Adil kullanım ve tüketici hakları gözetilerek hazırlanan geri ödeme koşullarımız şunlardır:
-
-- **İlk 14 Gün İçinde Tam İade Güvencesi:** Satın alma tarihinden itibaren ilk 14 takvim günü içerisinde; sistem kaynaklı teknik arızalar, platform servislerine erişememe, mükerrer (çift) kart tahsilatları veya yanlış paket seçimi gibi durumlarda koşulsuz tam iade gerçekleştirilir.
-- **Adil Kullanım ve Aşırı Tüketim İstisnası:** Kullanıcı abonelik süresi boyunca ilgili pakete tahsis edilen aylık yapay zeka token veya GPU işlem limitinin kayda değer bir bölümünü (örneğin %50'den fazlasını) aktif olarak tüketmişse, iade talepleri orantılı (pro-rata) veya mücbir gerekçelere göre istisnai olarak değerlendirilebilir.
-- **İade Talebi Başvuru Süreci:** İade başvurusu için kayıtlı e-posta adresiniz, sipariş referans kodunuz ve fatura numaranızla birlikte contact@xaynx.comadresin e e-posta göndermeniz yeterlidir. İnceleme 24-48 saat içerisinde tamamlanır ve onaylanan tutar bankanızın takvimine göre 3-7 iş günü içinde kartınıza iade edilir.
+All subscriptions renew automatically at the end of each billing cycle (monthly or yearly) using the stored payment method, unless cancelled prior to the renewal date. An automated notification is sent prior to each renewal.
 
 ---
 
-## 5. Kart Güvenliği ve Şifreleme Standartları
+## 3. Cancellation Procedure & Post-Cancellation Rights
 
-Kullanıcılarımızın finansal veri mahremiyeti ve işlem güvenliği kurumsal bankacılık seviyesinde korunmaktadır:
+Xaynx AI does not enforce binding long-term contracts, lock-ins, or penalty fees. Users maintain the right to terminate subscriptions at any time via any of the following methods:
 
-- **PCI-DSS Seviye 1 Sertifikasyonu:** Uluslararası ödeme kartı endüstrisinin en katı güvenlik sertifikasyon standardı uygulanır.
-- **256-Bit TLS 1.3 Şifreleme:** Ödeme aşamasındaki tüm veri trafiği uçtan uca yüksek güvenlikli TLS oturumları üzerinden kriptolanır.
-- **Sıfır Kart Saklama Prensibi:** Kredi kartı numaranız, son kullanma tarihiniz ve CVC güvenlik kodunuz ASLA Xaynx AI sunucularında veya veri tabanlarında tutulmaz, işlenmez ya da kaydedilmez.
-- **3D Secure Doğrulama:** Kart çıkaran bankanızın SMS şifresi ve çifte kimlik doğrulama adımlarıyla yetkisiz işlem riski engellenir.
+- Clicking "Cancel Subscription" within your application Billing dashboard (/billing),
+- Accessing the Lemon Squeezy Customer Portal linked directly inside your billing interface,
+- Clicking the "Manage Subscription" link included at the bottom of every automated receipt email.
 
----
-
-## 6. Resmi Faturalar ve Kurumsal Vergi Uyumluluğu
-
-Tamamlanan her ödeme işlemine istinaden Lemon Squeezy tarafından düzenlenen resmi PDF faturanız ve makbuzunuz sistem tarafından otomatik oluşturularak kayıtlı e-posta adresinize gönderilir.
-
-Kurumsal alımlarda checkout sayfasında veya Müşteri Yönetim Portalı üzerinde şirket unvanınızı, kayıtlı adresinizi ve Vergi Kimlik Numaranızı (VKN / VAT ID) faturanıza işletebilirsiniz. Düzenlenen faturalar ticari defter ve muhasebe kayıtlarında giderleştirilebilir resmi geçerliliğe sahiptir.
+**Post-Cancellation Access Guarantee:** Cancelling halts future recurring billing without immediately revoking access. You will retain full paid tier privileges until the exact end of your current prepaid billing cycle. Upon period expiry, no further charges will occur and your account gracefully switches to the Free tier with all projects preserved.
 
 ---
 
-## 7. İletişim ve Müşteri Destek Kanalları
+## 4. Refund Policy & Consumer Protection
 
-Abonelikleriniz, bekleyen faturalarınız, iade başvurularınız veya ödeme altyapısıyla ilgili her türlü teknik veya idari konuyu bize iletebilirsiniz:
+Xaynx AI provides real-time digital computing resources, AI model inferences, and cloud infrastructure. Our refund guidelines balance fair consumer protection with compute allocation costs:
+
+- **14-Day Full Refund Guarantee:** Within the first 14 calendar days of transaction date, full refunds are honored in the event of persistent service outages, technical failures, duplicate billing, or erroneous plan activation.
+- **Fair Use & Compute Quota Exception:** If a significant volume of compute quotas or AI inference tokens (e.g. over 50%) has already been consumed during the period, refund requests may be evaluated on an exceptional pro-rata basis.
+- **How to Submit a Refund Claim:** Email your registered account address, order reference, and invoice identifier to contact@xaynx.co m. Inquiries are audited within 24-48 hours, and approved funds are remitted back to the original payment card within 3-7 business days.
+
+---
+
+## 5. Card Security & Encryption Standards
+
+The security and privacy of user payment details are safeguarded through top-tier financial technology protocols:
+
+- **PCI-DSS Seviye 1 Sertifikasyonu:** PCI-DSS Level 1 certified architecture, the highest standard in global payment security.
+- **256-Bit TLS 1.3 Şifreleme:** All checkout sessions are encrypted end-to-end via TLS 1.3.
+- **Zero Card Storage Policy:** Credit card numbers, expiration dates, and CVVs are NEVER logged, seen, or stored on Xaynx servers.
+- **3D Secure Doğrulama:** Two-factor authentication and 3D Secure verification prevent unauthorized charge attempts.
+
+---
+
+## 6. Digital Invoices & Corporate Tax
+
+Following each successful transaction, a compliant digital PDF invoice and formal receipt is automatically generated and delivered to your registered email address.
+
+Corporate entities may append their legal registered company name, address, and VAT ID / Tax Identification Number directly during checkout for official tax write-off and bookkeeping.
+
+---
+
+## 7. Contact & Support Channels
+
+For all billing inquiries, invoice revisions, refund assistance, or account reconciliations, you may reach our team via:

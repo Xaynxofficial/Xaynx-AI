@@ -1,94 +1,94 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/terms
+> Official Live Page: https://xaynxai.com/terms
 
-Yürürlük Tarihi: 16 Kasım 2026
+Effective Date: November 16, 2026
 
-# Kullanım şartları
+# Terms of service
 
-İşbu Kullanıcı Sözleşmesi ve Hizmet Şartları ("Sözleşme"), Xaynx AI Teknoloji ("Şirket", "Xaynx AI", "biz" veya "bizim") tarafından işletilen dijital platformlar, web uygulamaları, otonom yapay zeka servisleri, yerel kod geliştirme ortamları ve ilgili API altyapılarının (topluca "Hizmetler") kullanımına ilişkin usul ve şartları düzenlemektedir. Platforma erişim sağlayan, üye olan veya Hizmetlerimizi kullanan her kişi ("Kullanıcı" veya "siz"), bu şartları bütünüyle kabul etmiş sayılır.
+These Terms of Service ("Agreement") govern the access and use of the digital platforms, web applications, autonomous artificial intelligence services, coding environments, and APIs (collectively, "Services") operated by Xaynx AI Teknoloji ("Company", "we", "us", or "our"). By registering or using our Services, you agree to be bound by these terms.
 
-**Bağımsızlık ve Marka Bildirimi:** Xaynx AI bağımsız bir yapay zeka platformudur. OpenAI, ChatGPT, Anthropic veya Google ile doğrudan bir kurumsal ortaklığı ya da sponsorluk bağı bulunmamaktadır. Bahsi geçen tüm harici marka ve logolar ilgili tescilli sahiplerine aittir.
-
----
-
-## 1. Tanımlar
-
-- **Şirket:** Hizmetlerin sağlayıcısı ve mülkiyet sahibi olan Xaynx AI Teknoloji tüzel kişiliğini ifade eder.
-- **Platform:** Xaynx AI web sitesi, alt alan adları, kullanıcı panelleri, kod editörü ve API arayüzlerini ifade eder.
-- **Girdi (Prompt):** Kullanıcı tarafından sisteme işlenmek üzere iletilen metinler, yazılım kodları, dosyalar, veriler veya komutları ifade eder.
-- **Çıktı (Output):** Kullanıcı Girdilerine istinaden yapay zeka modelleri aracılığıyla üretilen metin, kod, analiz, görsel ve yanıtları ifade eder.
-- **Çalışma Alanı (Workspace):** Kullanıcının projelerini yürüttüğü ve isteğe bağlı ekip üyeleriyle paylaştığı izole dijital alanları ifade eder.
+**Independence Notice:** Xaynx AI is an independent platform and has no direct partnership or sponsorship affiliation with OpenAI, ChatGPT, Anthropic, or Google. All referenced trademarks belong to their respective owners.
 
 ---
 
-## 2. Üyelik, Hesap Güvenliği ve Asgari Yaş Şartı
+## 1. Definitions
 
-- **2.1. Asgari Yaş Sınırı:** Platformu bağımsız olarak kullanabilmek için 15 yaşından büyük olmanız gerekir; 13–15 yaş aralığındaki kullanıcılar yalnızca ebeveyn veya yasal vasisinin açık izni ve gözetimiyle hesap oluşturabilir (ayrıntılar için Yaş Politikası geçerlidir). 13 yaş altındaki bireylerin Platformu kullanması kesinlikle yasaktır.
-- **2.2. Bilgi Doğruluğu:** Kullanıcı, hesap oluştururken sağladığı e-posta ve kimlik bilgilerinin tam, güncel ve gerçeğe uygun olduğunu taahhüt eder.
-- **2.3. Hesap ve Anahtar Güvenliği:** Oturum kimlik bilgilerinin, şifrelerin ve üretilen REST/MCP API anahtarlarının gizliliğinin muhafazasından münhasıran Kullanıcı sorumludur. Hesabınızda şüpheli bir işlem fark ederseniz derhal bizimle iletişime geçmelisiniz.
-
----
-
-## 3. Fikri Mülkiyet Hakları, Marka & Logo Telif Koruması
-
-- **3.1. Girdi ve Çıktı Hakları:** Yürürlükteki mevzuatın izin verdiği azami ölçüde, Kullanıcı tarafından sağlanan Girdiler üzerindeki mülkiyet hakları saklıdır. Hizmetler aracılığıyla üretilen Çıktılar üzerindeki tüm hak, unvan ve menfaatler Kullanıcıya devredilmiş sayılır. Kullanıcı, elde edilen Çıktıları ticari veya şahsi amaçlarla tasarruf etme hakkına sahiptir.
-- **3.2. Model Eğitimi Kısıtlaması:** Şirket, kurumsal gizlilik ilkeleri gereğince Kullanıcı Girdilerini ve Çıktılarını, Kullanıcının açık yazılı izni bulunmaksızın genel kamuya açık yapay zeka modellerinin eğitiminde veri kümesi olarak kullanmayacağını taahhüt eder.
-- **3.3. Platform & Yazılım Mülkiyeti:** Xaynx AI yazılım kaynak kodları, veri tabanı yapıları, arayüz mimarileri, prompt akışları ve algoritmik sistemler üzerindeki tüm fikri ve sınai mülkiyet hakları münhasıran Şirket’e aittir.
-- **3.4. Logo, Amblem ve Görsel Kimlik Koruma Bildirimi:** Özgün Xaynx AI Logosu, amblemi, grafiksel tasarım ögeleri, tipografik unsurları, kurumsal renk paleti ve dijital varlıkları 5846 sayılı Fikir ve Sanat Eserleri Kanunu (FSEK), 6769 sayılı Sınai Mülkiyet Kanunu (SMK), WIPO Uluslararası Marka Tescil Düzenlemeleri ve Bern Telif Hakları Sözleşmesi kapsamında yasal koruma altındadır. Şirketin yazılı izni olmaksızın logonun, arayüzün veya amblemin birebir kopyalanması, türetilmesi veya yanıltıcı amaçlarla ticari dolaşıma sokulması kesinlikle yasaktır.
-- **3.5. DMCA ve Telif Bildirimleri:** Platformumuz telif haklarına saygılıdır ve DMCA (Title 17 U.S.C. § 512), 5846 sayılı FSEK mevzuatı ile Copyscape intihal önleme standartlarına uyar. Telif hakkınızın ihlal edildiğini düşünüyorsanız 17 U.S.C. § 512(c) kapsamındaki resmi bildirimlerinizi Atanmış Temsilci (Designated Agent) e-posta adresimiz [contact@xaynx.co m](mailto:contact@xaynx.co m) üzerinden iletebilirsiniz. Haklı ve usulüne uygun bildirimlerde içerik DMCA Güvenli Liman (Safe Harbor) hükümleri gereğince ivedilikle incelemeye alınır. ABD Telif Hakkı Ofisi DMCA dizini (dmca.copyright.gov) ve doğrulama raporu [dmca.com/site-report/xaynxai.com](https://www.dmca.com/site-report/xaynxai.com) üzerinden ulaşabilirsiniz.
-- **3.6. Açık Kaynak ve Üçüncü Taraf Lisans Atıfları:** Platform altyapısında MIT, Apache-2.0, BSD, ISC ve CC-BY lisanslı açık kaynak bileşenler, yardımcı ikon paketleri (Lucide, Tabler) ve yetenek katalogları kullanılmaktadır. Tüm üçüncü taraf kütüphane ve lisans atıfları depomuzdaki THIRD_PARTY_NOTICES.md dosyasında kamuya açık şekilde listelenmiştir ve ilgili bileşenler kendi lisans hükümlerine tabidir.
-- **3.7. Özgün Xaynx İkon Seti ve Yazı Tipleri (Fontlar):** XaynxAI arayüzü için sıfırdan özel olarak tasarlanan Özgün Xaynx SVG İkon Seti (Ekibim, Eklentiler, Yetenekler, Geçmiş Sohbetler, Yapay Zeka Araçları, Dosya Dönüştürücü, Otonom Ajanlar, Görsel & Video, Ses Üretimi, Seyahat Planlayıcı, Cihazımı Bul & Takip, Bilgi Yönetimi ve Ayarlar ikonları) ile tüm özgün arayüz grafikleri 5846 sayılı FSEK kapsamında Xaynx Company'nin münhasır telif hakkına tabidir; yazılı izin olmaksızın kopyalanamaz, yeniden dağıtılamaz veya başka projelerde kullanılamaz. Sitede kullanılan Geist, Geist Mono, Inter, Plus Jakarta Sans, Outfit, JetBrains Mono ve Fira Code yazı tipleri ilgili hak sahiplerine ait olup SIL Open Font License 1.1 (OFL-1.1) kapsamında yasal olarak kullanılmaktadır.
+- **Company:** Refers to the legal entity Xaynx AI Teknoloji, provider and owner of the Services.
+- **Platform:** Refers to the Xaynx AI website, subdomains, user dashboard, code editor, and API endpoints.
+- **Input (Prompt):** Text, code, files, data, or instructions submitted by the User to the system for processing.
+- **Output:** Text, code snippets, analyses, and responses generated by AI models in response to User Inputs.
+- **Workspace:** Isolated digital environments where the User manages individual or collaborative projects.
 
 ---
 
-## 4. Kabul Edilebilir Kullanım, Gerçek Zamanlı Ses/Kamera Akışı ve Kısıtlamalar
+## 2. Registration, Account Security & Age
 
-Kullanıcı, Platformu ve geliştirici arayüzlerini kullanırken yürürlükteki kanunlara, kamu düzenine ve genel ahlaka riayet etmekle yükümlüdür. Aşağıdaki fiillerin gerçekleştirilmesi kesinlikle yasaktır:
-
-- Zararlı yazılım, virüs, kötü amaçlı kod veya siber saldırı araçları geliştirmek veya yaymak;
-- Sistemin kaynak kodlarını deşifre etmeye, tersine mühendislik (reverse engineering) uygulamaya veya güvenlik açıklarını istismar etmeye teşebbüs etmek;
-- REST API anahtarlarını veya MCP erişim belirteçlerini istemci tarafında açıkta yayınlamak; API hız limitlerini (Rate Limits) veya güvenlik filtrelerini (jailbreak) bypass etmeye çalışmak;
-- Otomatik sorgu botları veya scraper'lar ile sunucu altyapısına orantısız yük bindirerek adil kullanım (Fair Use) kotalarını aşmak;
-- Canlı Kamera veya Ekran Paylaşımı (Vision Co-Pilot) modlarında üçüncü kişilerin rızası olmaksızın kişisel verilerini, yüz görüntülerini veya gizli ticari sırlarını platforma aktarmak.
-
-**Gerçek Zamanlı Ses ve Kamera Akışı Güvencesi (Vision / Audio Streaming):** Vision Co-Pilot, Canlı Kamera veya Sesli Asistan modları kullanılırken aktarılan ses ve görüntü verileri sunucularımızda kalıcı olarak depolanmaz veya arşivlenmez. İlgili veri akışları yalnızca oturum esnasında anlık yapay zeka çıkarımı (real-time streaming inference) amacıyla geçici bellekte (ephemeral memory) işlenir ve oturum sonlandırıldığında derhal silinir.
+- **2.1. Minimum Age:** You must be over 15 years old to use the Platform independently; users aged 13–15 may only use the Platform with explicit parental or legal guardian consent (as detailed in our Age Policy). Individuals under 13 are strictly prohibited from using the Platform.
+- **2.2. Accuracy of Information:** You agree to provide accurate, complete, and updated registration details.
+- **2.3. Account & Key Security:** You are solely responsible for safeguarding the credentials and API keys associated with your account.
 
 ---
 
-## 5. Çalışma Alanları, Kurumsal İşbirliği ve Kod/Veri Yedekleme
+## 3. Intellectual Property, Brand & Logo Copyright Protection
 
-- **5.1. Yetkilendirme ve İdare:** Çalışma alanını oluşturan Kullanıcı ("Yönetici"), diğer kullanıcıları davet etme, yetki seviyelerini düzenleme ve üyeliği sonlandırma yetkisine sahiptir.
-- **5.2. Veri Ayrılığı (Data Isolation):** Kullanıcıların şahsi çalışma alanları altında yer alan kayıtları, üçüncü şahıslar veya dahil olunan diğer çalışma alanlarının üyeleri tarafından görüntülenemez; tam çok kiracılı (multi-tenant) veri izolasyonu esastır.
-- **5.3. Ayrılma Hakkı:** Çalışma alanına dahil edilen üyeler, diledikleri an yetkili oldukları alanlardan ayrılma hakkını haizdir.
-- **5.4. Kullanıcı Veri ve Kod Yedekleme Sorumluluğu:** Platform üzerinde, kod editöründe veya çalışma alanlarında üretilen, düzenlenen ya da saklanan yazılım kodları, proje dosyaları, veri tabanı şemaları ve girdilerin düzenli yerel yedeklerini (back-up) alma yükümlülüğü münhasıran Kullanıcıya aittir. Donanım arızası, tarayıcı önbellek temizliği, üçüncü taraf bulut sağlayıcı kesintileri veya kullanıcı hatasından kaynaklanabilecek veri kayıplarından Şirket sorumlu tutulamaz.
-
----
-
-## 6. Sorumluluğun Sınırlandırılması, Yapay Zeka Halüsinasyonları ve Mücbir Sebepler
-
-- **6.1. Olduğu Gibi Esası (AS-IS):** Hizmetler "olduğu gibi" ve "mevcut olduğu şekliyle" sunulmaktadır. Şirketimiz, Hizmetlerin kesintisiz veya mutlak hatasız olacağını garanti etmez.
-- **6.2. Yapay Zeka Çıktıları ve Halüsinasyon Sorumluluk Reddi:** Yapay zeka modelleri olasılıksal yöntemlerle çalışır ve zaman zaman hatalı ya da yanıltıcı bilgiler ("halüsinasyon") üretebilir. Çıktılar danışmanlık, hukuki mütalaa, tıbbi teşhis veya finansal tavsiye niteliği taşımaz. Çıktıların doğrulanması ve kullanımından doğan sorumluluk münhasıran Kullanıcıya aittir.
-- **6.3. Dolaylı Zararlar:** Şirketimiz; kâr kaybı, veri kaybı veya iş kesintisi gibi dolaylı ya da arızi zararlardan sorumlu tutulamaz.
-- **6.4. Mücbir Sebepler (Force Majeure):** Deprem, yangın, sel, salgın hastalık gibi doğal afetler; savaş, terör, iç karışıklık, yaygın siber saldırılar (DDoS), uluslararası internet omurga altyapısı kesintileri, Cloudflare/Google/AWS/OpenAI gibi üçüncü taraf altyapı sağlayıcı arızaları veya yetkili mercilerin idari kısıtlama ve erişim engelleme kararları gibi Şirket'in makul kontrolü dışında gelişen mücbir sebeplerden ötürü hizmetlerin askıya alınması, gecikmesi veya ifa edilememesinden dolayı Şirket hiçbir hukuki ya da cezai sorumluluk taşımaz ve tazminat yükümlülüğü doğmaz.
-- **6.5. 3D / CAD Motoru ve Teknik Çizim Sorumluluk Reddi:** Platformun 3D / CAD motoru (build123d) aracılığıyla üretilen parametrik modeller, STEP/STL/DXF dosyaları ve teknik çizimler yalnızca taslak ve prototipleme amaçlıdır; yetkili mühendislik onayı, yapısal dayanım testi veya üretim sertifikasyonu yerine geçmez. Fiziksel üretim, CNC işleme, 3D baskı veya güvenlik açısından kritik kullanım öncesinde tüm ölçü, tolerans ve güvenlik kontrollerinin yetkin bir uzman tarafından doğrulanması münhasıran Kullanıcının sorumluluğundadır.
-- **6.6. Otonom Ajanlar ve Zamanlanmış Arka Plan Görevleri:** Kullanıcı tarafından yapılandırılan ve aktif durumda bırakılan zamanlanmış otonom ajanlar, Kullanıcı çevrimdışıyken de arka planda çalışarak belirlenen görevleri yürütür ve ürettiği raporları ilgili sohbete aktarır. Otonom ajanların prompt içeriğinden, zamanlamasından, ürettiği çıktıların kullanımından ve gerekmediğinde duraklatılması veya silinmesinden münhasıran Kullanıcı sorumludur.
+- **3.1. Input & Output Ownership:** To the maximum extent permitted by applicable law, the User retains ownership rights over their Inputs. All rights, title, and interest in Outputs generated through the Services are assigned to the User, who may utilize them for commercial or personal purposes.
+- **3.2. Model Training Restrictions:** The Company commits not to utilize User Inputs or Outputs as training datasets for general public foundation models without explicit prior written authorization.
+- **3.3. Platform & Software Ownership:** All intellectual and industrial property rights in Xaynx AI software source code, database architectures, interface designs, prompt workflows, and algorithmic systems are exclusively owned by the Company.
+- **3.4. Logo & Visual Identity Protection Notice:** The official Xaynx AI Logo, emblem, branding assets, and graphical styling are strictly protected under Turkish Law No. 5846 on Intellectual and Artistic Works (FSEK), Industrial Property Code No. 6769, WIPO trademark treaties, and the Berne Convention. Unauthorized reproduction, imitation, or deceptive branding is strictly prohibited.
+- **3.5. DMCA & Copyright Safe Harbor:** We comply with the DMCA (Title 17 U.S.C. § 512), Turkish Law 5846, and Copyscape standards. For copyright takedown requests, contact [contact@xaynx.co m](mailto:contact@xaynx.co m). View our official DMCA verification status at [dmca.com/site-report/xaynxai.com](https://www.dmca.com/site-report/xaynxai.com).
+- **3.6. Open Source & Third-Party Notices:** Our platform incorporates open-source components, auxiliary icon packs (Lucide, Tabler), and skill catalogs licensed under MIT, Apache-2.0, BSD, ISC, and CC-BY licenses. Full attributions are maintained in THIRD_PARTY_NOTICES.md and remain governed by their respective licenses.
+- **3.7. Custom Xaynx Icon Set & Typography (Fonts):** The custom-designed Xaynx SVG Icon Set created specifically for the XaynxAI interface (Team, Extensions, Skills, Chat History, AI Tools, Universal Converter, Autonomous Agents, Image & Video, Audio Generation, Travel Planner, Device Tracker, Knowledge Base, and Settings icons) is the exclusive copyrighted property of Xaynx Company and may not be copied, redistributed, or used in other products without prior written permission. The Geist, Geist Mono, Inter, Plus Jakarta Sans, Outfit, JetBrains Mono, and Fira Code typefaces remain the property of their respective authors and are legally used under the SIL Open Font License 1.1 (OFL-1.1).
 
 ---
 
-## 7. Abonelik, Faturalandırma, Fiyat Değişiklikleri ve Cayma Hakkı
+## 4. Acceptable Use, Real-Time Audio/Vision & Restrictions
 
-- **7.1. Otomatik Yenileme ve İptal:** Ücretli planlar fatura dönemi sonunda otomatik olarak yenilenir. Kullanıcı dilediği an aboneliğini bir sonraki döneme etki edecek şekilde iptal edebilir.
-- **7.2. Cayma Hakkı İstisnası:** 6502 sayılı Kanun ve Mesafeli Sözleşmeler Yönetmeliği m. 15/1-ğ uyarınca; elektronik ortamda anında ifa edilen dijital hizmetler ve tüketiciye anında teslim edilen gayrimaddi mallar kapsamında, yapay zeka servisi ve hesap kullanımına başlandıktan sonra aktif dönem için cayma hakkı uygulanmaz. Ancak iptal edilen abonelikler için bir sonraki dönemde hiçbir yenileme ücreti kesilmez.
-- **7.3. Fiyat ve Plan Değişikliği Bildirim Kuralı:** Şirket, sunulan abonelik paketlerini, kullanım kotalarını veya fiyatlandırma tarifelerini güncelleme hakkını saklı tutar. Fiyat ve plan değişiklikleri, Kullanıcının kayıtlı e-posta adresine veya platform içi bildirim mekanizmalarıyla yürürlüğe girmeden en az 30 (otuz) gün önceden bildirilir. Yeni ücretleri kabul etmeyen Kullanıcı, mevcut fatura dönemi bitiminde aboneliğini dilediği an cezasız olarak sonlandırma hakkına sahiptir.
-- **7.4. Hesap Askıya Alma ve Fesih:** Sözleşme şartlarının ihlali, siber güvenlik açığı yaratılması veya dolandırıcılık tespiti durumunda Şirket, ilgili hesabı önceden bildirimde bulunmaksızın derhal askıya alma hakkını saklı tutar.
-- **7.5. Yapay Zekâ Şeffaflığı (EU AI Act m. 50):** Kullanıcı, Xaynx AI üzerinde bir yapay zekâ sistemiyle etkileşim kurduğunu ve platform tarafından üretilen metin, görsel, ses ve video içeriklerinin sentetik (yapay zekâ üretimi) olduğunu kabul eder.
-- **7.6. Ticari Elektronik İleti ve İYS Ayrımı (6563 s. ETK):** Kampanya, tanıtım ve pazarlama amaçlı ticari elektronik ileti onayı işbu Kullanım Koşulları'ndan tamamen ayrı ve isteğe bağlıdır. Kullanıcı, hesap ayarları veya İYS üzerinden dilediği zaman ret hakkını kullanarak pazarlama iletilerini durdurabilir; zorunlu güvenlik, fatura ve sistem bildirimleri bu kapsam dışındadır.
+When using the Platform and developer interfaces, the User agrees to comply with applicable laws. The following actions are strictly prohibited:
+
+- Developing or deploying malware, viruses, malicious code, or cyber exploitation payloads;
+- Reverse engineering, decompiling, or attempting to discover source code or exploit security vulnerabilities;
+- Exposing REST API keys or MCP tokens in public bundles; bypassing rate limits or subverting moderation guardrails (jailbreaking);
+- Deploying abusive scrapers or bots that strain infrastructure beyond fair use guidelines;
+- Streaming third-party private likenesses, facial data without consent, or confidential trade secrets via live camera or screen sharing.
+
+**Real-Time Vision & Audio Streaming Safeguard:** Audio and camera streams transmitted during Vision Co-Pilot or live voice sessions are never permanently stored or archived on our servers. Streams are processed strictly in ephemeral memory for real-time inference and discarded immediately upon session termination.
 
 ---
 
-## 8. Yetkili Hukuk ve Uyuşmazlıkların Çözümü
+## 5. Workspaces, Enterprise Collaboration & Backup Responsibility
 
-Bu Sözleşme Türkiye Cumhuriyeti kanunlarına tabidir. Sözleşmeden doğabilecek her türlü uyuşmazlığın çözümünde İstanbul (Çağlayan) Mahkemeleri ve İcra Daireleri münhasıran yetkilidir.
+- **5.1. Authorization & Management:** The User who creates a workspace ("Administrator") holds authority to invite members, configure permission tiers, and terminate memberships.
+- **5.2. Data Segregation & Isolation:** Data within individual or separated workspaces is never visible to unauthorized third parties or members of other workspaces; strict multi-tenant isolation is maintained.
+- **5.3. Right to Leave:** Members invited to a workspace retain the right to voluntarily leave the workspace at any time.
+- **5.4. User Data & Code Backup Responsibility:** The User holds exclusive responsibility for maintaining regular local backups of software code, project files, and data generated or edited within the platform. The Company cannot be held liable for data loss arising from local browser cache clearing, client hardware failure, or third-party cloud interruptions.
 
-Hukuki bildirimler, lisans soruları veya resmi sözleşme talepleriniz için Şirketimiz Hukuk Müşavirliği ile iletişime geçebilirsiniz:
+---
+
+## 6. Limitation of Liability, AI Hallucinations & Force Majeure
+
+- **6.1. "As-Is" Basis:** Services are provided on an "AS-IS" and "AS-AVAILABLE" basis without warranties of uninterrupted uptime.
+- **6.2. AI Outputs & Hallucination Disclaimer:** AI models generate probabilistic outputs that may occasionally be incomplete or inaccurate. Outputs do not constitute professional advice. Independent verification is solely the User's responsibility.
+- **6.3. Indirect Damages:** In no event shall Xaynx AI be liable for indirect, incidental, or consequential damages resulting from your use of the Services.
+- **6.4. Force Majeure:** The Company shall not be liable for any failure or delay in the performance of Services resulting from causes beyond its reasonable control (Force Majeure), including acts of God, widespread cyberattacks (DDoS), major cloud infrastructure outages (AWS, Cloudflare, Google), or government regulatory restrictions.
+- **6.5. 3D / CAD Engine & Engineering Drawing Disclaimer:** Parametric 3D/CAD models (build123d), STEP/STL/DXF exports, and technical drawings generated by the Platform are provided solely for drafting and prototyping purposes and do not constitute certified engineering approval or structural validation. Independent verification by a qualified professional prior to physical manufacturing, CNC machining, 3D printing, or safety-critical use is solely the User's responsibility.
+- **6.6. Autonomous Agents & Scheduled Background Tasks:** Scheduled autonomous agents left active by the User execute automatically in the background—even when the User is offline—and post generated reports to the linked chat. The User is solely responsible for agent prompts, schedules, use of generated outputs, and pausing or deleting agents when no longer needed.
+
+---
+
+## 7. Subscriptions, Billing, Pricing Updates & Cancellation
+
+- **7.1. Auto-Renewal & Cancellation:** Paid subscriptions renew automatically at each billing interval. You may cancel anytime, taking effect for future renewal cycles.
+- **7.2. Right of Withdrawal Exemption:** Under consumer regulations for immediately executed digital services, the right of withdrawal does not apply to active cycles once service usage commences.
+- **7.3. Pricing & Plan Modification Notice:** The Company reserves the right to modify subscription tiers, usage quotas, or pricing upon at least thirty (30) days prior notice via email or in-app announcements. Users who do not agree to updated pricing may cancel their subscriptions without penalty prior to the new billing cycle.
+- **7.4. Account Suspension & Termination:** We reserve the right to suspend or terminate accounts in cases of terms violations, security breaches, or abusive activities.
+- **7.5. AI Transparency (EU AI Act Art. 50):** You acknowledge that you are interacting with an artificial intelligence system and that generated text, image, audio, and video outputs are AI-generated synthetic content.
+- **7.6. Commercial Electronic Messages (Opt-In Separation):** Consent to promotional or marketing communications is strictly optional and separate from these Terms, and may be withdrawn at any time. Essential transactional, billing, and security notices remain unaffected.
+
+---
+
+## 8. Governing Law & Dispute Resolution
+
+This Agreement shall be governed by the laws of the Republic of Turkey. The courts of Istanbul (Çağlayan) shall have exclusive jurisdiction.
+
+For legal inquiries or notices regarding these terms, please contact our Legal Counsel:
 
 [contact@xaynx.co m](mailto:contact@xaynx.co m)

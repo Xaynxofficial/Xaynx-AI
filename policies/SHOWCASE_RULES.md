@@ -1,48 +1,48 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/showcase-rules
+> Official Live Page: https://xaynxai.com/showcase-rules
 
-Yürürlük Tarihi: 18 Kasım 2026
+Effective Date: November 18, 2026
 
-# Vitrin Paylaşma Kuralları
+# Showcase Publishing Rules
 
-XaynxAI Vitrin galerisinde herkes için güvenli, kaliteli ve saygılı bir topluluk alanı oluşturmak amacıyla aşağıdaki ilkeler uygulanır.
+The following guidelines keep the XaynxAI Showcase gallery safe, high-quality, and respectful for everyone.
 
-## A. İçerik Uygunluğu
+## A. Content Appropriateness
 
-- Paylaşılan görsel genel izleyici kitlesine uygun olmalıdır.
-- Cinsel içerikli, çıplaklık içeren veya cinselleştirilmiş görseller kabul edilmez.
-- Şiddeti, kanlı sahneleri veya gerçek dünyada zarar vermeyi teşvik eden içerikler kabul edilmez.
-- Irkçı, ayrımcı, nefret söylemi içeren veya kişileri hedef alan görseller kabul edilmez.
-- Başka insanları küçük düşürmek, tehdit etmek veya taciz etmek amacıyla üretilen görseller yayımlanamaz.
-- Özel bilgileri, adresleri, telefon numaralarını veya kişisel belgeleri açığa çıkaran görseller kabul edilmez.
-- Yanıltıcı sağlık, bilim, finans veya haber görselleri gerçek bilgi gibi sunulamaz.
-- Başka kişilerin yüzleri ve kimlikleri izinsiz şekilde yanıltıcı veya zarar verici biçimde kullanılamaz. Özellikle çocukların görüntülerinde yüksek koruma uygulanır.
+- Shared images must be suitable for a general audience.
+- Sexually explicit, nude, or sexualized imagery is not permitted.
+- Content depicting gore, violence, or encouraging real-world harm is prohibited.
+- Racist, discriminatory, hate-speech, or targeted harassment imagery is not allowed.
+- Images created to humiliate, threaten, or harass others cannot be published.
+- Images exposing private data, addresses, phone numbers, or personal documents are prohibited.
+- Misleading health, science, finance, or news imagery cannot be presented as factual.
+- Third-party faces and identities may not be used deceptively or harmfully without consent; strict protection applies to minors.
 
-**Kendi Yüzünüz / Kişisel Paylaşımlar:** Kullanıcılar yalnızca kendilerine ait yüz, portre veya kişisel görselleri kendi açık rızalarıyla vitrinde paylaşabilir. Kendi görselinizi vitrine eklediğinizde tüm sorumluluk size aittir ve görselin kamuya açık alanda listelenmesini kabul etmiş sayılırsınız.
+**Your Own Likeness:** You may share images featuring your own face or personal likeness with your consent; by publishing them to the public Showcase, you assume full responsibility.
 
-## B. Görsel Kalitesi
+## B. Visual Quality
 
-Vitrine gönderilen içerik belirli bir kalite seviyesini karşılamalıdır:
+Submissions to the Showcase should meet a clean baseline of quality:
 
-- Görselin ana konusu açıkça anlaşılmalıdır.
-- Görsel aşırı bulanık veya ciddi şekilde bozuk olmamalıdır.
-- Görselde rahatsız edici, anlamsız veya hatalı yapay zekâ çıktıları bulunmamalıdır.
-- Görselin üzerine reklam, spam veya ilgisiz metinler eklenmemelidir.
-- Başka platformların filigranlarını veya üretici imzalarını silerek sahiplenilmiş görseller kabul edilmez.
-- Tekrarlanan, neredeyse aynı olan görseller arka arkaya gönderilmemelidir.
+- The main subject should be clearly recognizable.
+- Images should not be severely blurry or heavily corrupted.
+- Avoid disturbing, incoherent, or broken AI artifacts.
+- Do not overlay ads, spam, or unrelated promotional text.
+- Images with removed third-party watermarks or signatures are not accepted.
+- Do not submit repetitive or near-duplicate images back-to-back.
 
-Önemli: Her görselin profesyonel olması şart değildir. Yeni başlayan kullanıcılar da yaratıcı çalışmalarını özgürce paylaşabilir; değerlendirme yalnızca teknik mükemmelliğe göre yapılmaz.
+Note: Not every image has to look studio-grade. Beginners are welcome to share creative work—quality is not judged solely on technical perfection.
 
-## C. Telif, Sahiplik ve Kaldırma Hakkı
+## C. Copyright, Ownership & Removal
 
-- Kullanıcı, vitrine eklediği görseli paylaşma hakkına sahip olduğunu beyan eder.
-- Başkasına ait görseller izinsiz şekilde kullanılamaz veya sahiplenilemez.
-- Lisans gerektiren logo, marka, karakter veya başka eserler konusunda gerekli izinler alınmış olmalıdır.
-- Başka bir kişinin eserini kendi üretimiymiş gibi göstermek yasaktır.
-- Görselin yapay zekâ ile üretildiği gerektiğinde açıkça belirtilmelidir.
-- Kural ihlali tespit edilen görseller yöneticiler tarafından vitrinden kaldırılabilir. Kendi paylaştığınız bir görselin kaldırılmasını istediğinizde [contact@xaynx.co m](mailto:contact@xaynx.co m) üzerinden kaldırma talebinde bulunabilirsiniz.
+- You confirm that you have the right to publish the image you submit.
+- Third-party images may not be used or claimed without permission.
+- Required permissions must be respected for licensed logos, brands, or characters.
+- Presenting someone else's work as your own is strictly prohibited.
+- AI generation should be transparently disclosed where applicable.
+- Administrators may remove content that violates these rules, and you may request removal of your submitted image at any time via [contact@xaynx.co m](mailto:contact@xaynx.co m).
 
-## D. Üçüncü Kişi Yüzleri ve Bireysel Sorumluluk
+## D. Third-Party Likeness & Individual Responsibility
 
-XaynxAI Vitrin alanında paylaşılan tüm görseller, ilgili kullanıcının kendi talebi ve onayıyla yayımlanır. Bir kullanıcının başka bir kişiye ait yüzü, kimliği veya kişisel görüntüyü ilgili kişinin açık izni olmaksızın üretmesi ve vitrinde paylaşması durumunda doğabilecek her türlü hukuki, cezai ve manevi sorumluluk tamamen görseli paylaşan kullanıcıya aittir; XaynxAI bu tür izinsiz paylaşımlardan sorumlu tutulamaz.
+All content published to the XaynxAI Showcase is submitted at the user's own initiative. If a user generates and publishes another person's face, identity, or likeness without their explicit consent, all resulting legal and civil liability rests solely with the submitting user; XaynxAI bears no responsibility for unauthorized third-party likeness submissions.
 
-İzinsiz kullanıldığını düşündüğünüz bir görselle karşılaşırsanız [contact@xaynx.co m](mailto:contact@xaynx.co m) adresine bildirimde bulunmanız hâlinde içerik incelenerek en kısa sürede vitrinden kaldırılır.
+If you believe your likeness was shared without permission, contact [contact@xaynx.co m](mailto:contact@xaynx.co m) and it will be reviewed and removed promptly.

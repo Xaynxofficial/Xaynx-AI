@@ -1,84 +1,84 @@
-> Resmî Canlı Sayfa: https://xaynxai.com/site-publishing-rules
+> Official Live Page: https://xaynxai.com/site-publishing-rules
 
-Yürürlük Tarihi: 16 Kasım 2026
+Effective Date: November 16, 2026
 
-# Site yayınlama kuralları
+# Site publishing rules
 
-Xaynx AI platformu üzerinde web sitesi, web uygulaması veya dijital arayüz yayınlayan (deploy eden) her kullanıcı, işbu Site Yayınlama Kuralları'nı okumuş, anlamış ve hukuken bağlayıcı olarak kabul etmiş sayılır. Platform altyapımız, küresel güvenlik ve mevzuat standartlarına tam riayet ile yönetilmektedir.
+Any user publishing or deploying websites or web applications on the Xaynx AI platform agrees to be bound by these Site Publishing Rules. Our infrastructure is governed under strict cyber security and legal compliance standards.
 
-**Hukuki Bağlayıcılık Uyarısı:** Yayınlanan içeriklerin Türkiye Cumhuriyeti kanunlarına, FSEK, SMK ve genel ahlaka aykırı olması durumunda ilgili siteler derhal yayından kaldırılır ve sorumlular hakkında hukuki süreç başlatılır.
-
----
-
-## 1. Yasaklanan İçerikler ve Güvenlik Standartları
-
-- Yasadışı faaliyetleri teşvik eden, kolaylaştıran veya organize eden içerikler kesinlikle yayınlanamaz.
-- Pornografik, müstehcen veya cinsel açıdan istismara yol açabilecek hiçbir görsel, metin veya medya kabul edilmez.
-- Yasadışı kumar, lisanssız bahis veya şans oyunlarına yönelik uygulamalar veya tanıtımlar yayınlanamaz.
-- Uyuşturucu, uyarıcı veya reçeteye tabi kontrollü maddelerin satışı veya reklamı yasaktır.
-- Nefret söylemi, ırkçılık, etnik veya dini ayrımcılık içeren hiçbir yayın platformda barındırılamaz.
-- Terör propagandası, şiddet eylemleri veya cana kasteden zararlı materyaller kesinlikle yasaktır.
-- Dolandırıcılık, oltalama (phishing), sahte bankacılık veya kimlik hırsızlığı amaçlı web sayfaları oluşturulamaz.
-- Üçüncü şahıslara ait telifli yazılım, görsel veya fikri mülkiyetlerin izinsiz (korsan) kullanımı yasaktır.
+**Legal Binding Notice:** Deploying content that violates applicable laws or intellectual property rights will trigger immediate site revocation and potential statutory proceedings.
 
 ---
 
-## 2. Hukuki ve Cezai Sorumluluk
+## 1. Prohibited Content & Safety Standards
 
-- Yayınladığınız sitenin ve kodların tüm hukuki ve cezai sorumluluğu münhasıran siteyi yayınlayan Kullanıcıya aittir.
-- Yayınlanan siteler vasıtasıyla üçüncü şahıslara veya kurumlara verilen tüm maddi/manevi zararlardan doğrudan Kullanıcı sorumludur.
-- Türkiye Cumhuriyeti kanunları, 5846 sayılı FSEK, 5651 sayılı İnternet Kanunu ve uluslararası mevzuat hükümleri bağlayıcıdır.
-- Kurallara aykırı eylemlerde bulunan kullanıcılar hakkında adli ve idari merciler nezdinde yasal süreç başlatılabilir.
-- Xaynx AI platformu, kullanıcıların yayınladığı içeriklerin doğruluğunu veya hukuka uygunluğunu teyit etmekle yükümlü değildir (Yer Sağlayıcı sıfatı).
-- İhlal veya suç şüphesi durumunda Şirket, yetkili adli mercilerle yasal çerçevede tam iş birliği yapma hakkını saklı tutar.
-
----
-
-## 3. Denetim, Askıya Alma ve Kaldırma Hakları
-
-- Xaynx AI, güvenlik filtreleri ve adil kullanım politikaları kapsamında yayınlanan tüm siteleri denetleme hakkına sahiptir.
-- Hizmet şartlarını veya yayın kurallarını ihlal ettiği tespit edilen siteler, önceden bildirimde bulunulmaksızın derhal yayından kaldırılabilir.
-- Kötü niyetli veya mükerrer ihlal gerçekleştiren kullanıcıların hesapları süresiz olarak askıya alınabilir veya kapatılabilir.
-- Şirket, güvenlik ve suistimal önleme algoritmalarının işleyiş detaylarını kamuoyuna açıklamak zorunda değildir.
-- Site sahipleri kaldırma kararlarına itiraz başvurusunda bulunabilir; ancak nihai karar takdiri münhasıran Şirket'e aittir.
+- Content that promotes, facilitates, or organizes unlawful activities is strictly prohibited.
+- Sexually explicit, pornographic, or exploitative media or text cannot be hosted.
+- Unlicensed gambling, illegal betting, or games of chance operations are forbidden.
+- Sale or advertising of illegal substances or controlled pharmaceuticals is strictly banned.
+- Hate speech, discrimination, extremist propaganda, or violent harassment is unacceptable.
+- Terrorist promotion, violent depictions, or threats to physical safety cannot be published.
+- Phishing, fraud, spoofing, or credential theft websites will be immediately terminated.
+- Pirated or unauthorized use of third-party copyrighted materials or trademarks is strictly prohibited.
 
 ---
 
-## 4. Veri Gizliliği, KVKK ve GDPR Uyumu
+## 2. Legal Liability & Penal Sanctions
 
-- Site yayınlama sürecinde işlenen teknik ve kişisel veriler 6698 sayılı KVKK ve AB GDPR düzenlemelerine tam uyumlu olarak korunur.
-- Sağlanan veriler yalnızca hizmetin barındırılması, DNS yönlendirmesi, SSL sertifikasyonu ve siber güvenlik amacıyla işlenir.
-- Yayınlanan sitelere ilişkin veriler, kanuni zorunluluk bulunmadıkça üçüncü şahıslara veya reklam ağlarına devredilmez.
-- Ziyaretçi ve erişim logları 5651 sayılı Kanun'un öngördüğü yasal saklama süreleri boyunca şifreli ortamlarda muhafaza edilir.
-- KVKK ve GDPR kapsamındaki tüm haklarınız için doğrudan contact@xaynx.co m adresi üzerinden talepte bulunabilirsiniz.
-
----
-
-## 5. Teknik Gereksinimler ve Altyapı Kısıtlamaları
-
-- Yayınlanan siteler, Xaynx AI sunucularına orantısız yük bindiren otomatik botlar, kazıyıcılar veya döngüsel scriptler barındıramaz.
-- DDoS saldırısı tetikleyebilecek açık portlar, spam e-posta gönderim betikleri veya kötü amaçlı kod dağıtımı yasaktır.
-- Diğer platform kullanıcılarının verilerini veya sunucu izolasyonunu tehlikeye atacak tersine mühendislik araçları çalıştırılamaz.
-- Kripto para madenciliği (crypto mining) veya yüksek CPU/GPU tüketen yetkisiz arka plan süreçleri kesinlikle engellenir.
-- Alt alan adı (subdomain) ve özel alan adı (custom domain) tahsisi Şirket'in adil kullanım ve DNS politikalarına tabidir.
+- The publishing User bears sole and exclusive legal liability for all content and software deployed on their site.
+- The User is directly liable for any damages or infringement claims raised by third parties.
+- All operations remain subject to applicable statutory laws, cyber regulations, and international copyright treaties.
+- Violations may result in formal civil or criminal proceedings initiated before judicial authorities.
+- Xaynx AI acts solely as an intermediary hosting infrastructure and does not pre-screen or verify user content legality.
+- In cases of statutory violation, Xaynx AI reserves the full right to cooperate with authorized judicial authorities.
 
 ---
 
-## 6. Kural Güncellemeleri ve Yürürlük
+## 3. Auditing, Suspension & Takedown Rights
 
-- Bu yayınlama kuralları mevzuat değişiklikleri veya platform güvenlik ihtiyaçları gereğince Şirket tarafından güncellenebilir.
-- Güncellenen kurallar yayım tarihi itibarıyla bu sayfada geçerlilik kazanır.
-- Site yayınlama hizmetini kullanmaya devam etmeniz, güncel kuralları bütünüyle kabul ettiğiniz anlamına gelir.
-- Kritik ve köklü değişiklikler kayıtlı kullanıcılara e-posta veya sistem içi bildirim mekanizmalarıyla duyurulur.
+- Xaynx AI reserves the right to audit and scan hosted sites to enforce safety guardrails and integrity.
+- Sites violating hosting or security policies may be taken down immediately without advance notice.
+- Accounts engaging in malicious, fraudulent, or repeat violations are subject to permanent termination.
+- The Company is not obligated to disclose internal heuristics, security detection mechanisms, or review criteria.
+- Users may appeal takedown actions; however, final discretion remains exclusively with Xaynx AI.
 
 ---
 
-## 7. Bildirim, AB DSA (m. 16) İhlal Başvurusu ve İletişim
+## 4. Data Privacy & GDPR / KVKK Compliance
 
-Platformumuz üzerinde barındırılan herhangi bir sitenin (ör. /s/:slug) hukuka aykırı içerik barındırdığını veya telif/kişilik haklarını ihlal ettiğini düşünüyorsanız, AB Dijital Hizmetler Yasası (DSA Madde 16) ve 5651 sayılı Kanun kapsamındaki Bildir-Kaldır (Notice & Action) başvurunuzu aşağıdaki bilgilerle iletebilirsiniz:
+- Technical and metadata processed during site publishing strictly complies with KVKK and EU GDPR provisions.
+- Collected information is utilized strictly for hosting delivery, SSL automation, routing, and cyber defense.
+- Deployment data is never shared with third-party data brokers or marketing affiliates.
+- Traffic connection logs are retained in encrypted storage strictly within legally required retention windows.
+- To exercise any statutory data privacy rights, inquiries can be directed to contact@xaynx.co m.
 
-- İhlal edildiği iddia edilen sitenin tam URL adresi ve içeriğin açık tanımı;
-- Hukuki gerekçe (telif hakkı, marka, kişilik hakkı ihlali veya yasadışı içerik açıklaması) ve başvuranın iletişim bilgileri ile iyi niyet beyanı.
+---
+
+## 5. Technical Requirements & Resource Constraints
+
+- Deployed applications may not include abusive bots, recursive scraping scripts, or disproportionate server burdens.
+- Exploits facilitating distributed denial of service (DDoS) or spam dissemination are strictly blocked.
+- Architectures attempting to compromise multi-tenant sandbox boundaries will be revoked immediately.
+- Cryptocurrency mining or unauthorized resource-exhaustive background compute is strictly prohibited.
+- Subdomain allocation and custom domain routing remain subject to Xaynx AI Fair Use standards.
+
+---
+
+## 6. Policy Revisions & Effective Status
+
+- These publishing standards may be updated periodically to adapt to security needs and regulatory changes.
+- Revised provisions take legal effect immediately upon publication on this official endpoint.
+- Continued hosting of your project constitutes full acceptance of the updated rules.
+- Material revisions may be announced via registered email or in-app dashboard notifications.
+
+---
+
+## 7. Abuse Reporting, EU DSA (Art. 16) Notice & Action
+
+If you identify any hosted site (e.g., /s/:slug) containing illegal content or infringing rights, please submit a Notice & Action report pursuant to EU Digital Services Act (DSA) Article 16 and Law No. 5651 including the exact URL, legal justification, your contact details, and a good-faith statement to:
+
+- Exact URL of the hosted site and clear identification of the content;
+- Legal basis, reporter contact details, and good-faith accuracy statement.
 
 [contact@xaynx.co m](mailto:contact@xaynx.co m)
 
