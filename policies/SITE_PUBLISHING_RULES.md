@@ -82,4 +82,4 @@ If you identify any hosted site (e.g., /s/:slug) containing illegal content or i
 
 [contact@xaynx.co m](mailto:contact@xaynx.co m)
 
-Xaynx AI Teknoloji A.Ş. Hukuk & Güvenlik Birimi
+Xaynx AI Teknoloji A.Ş. Legal & Security Unit

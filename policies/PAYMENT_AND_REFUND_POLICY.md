@@ -4,7 +4,7 @@ Effective Date: November 16, 2026
 
 # Payment, subscription & refund policy
 
-Secured by Lemon Squeezy Infrastructure•Doküman: XAYNX-PAY-2026/V1
+Secured by Lemon Squeezy Infrastructure • Document: XAYNX-PAY-2026/V1
 This Payment, Subscription, and Refund Policy governs the legal terms and operational principles concerning the purchase, billing, recurring renewals, cancellation, and refund procedures for digital AI services provided by Xaynx AI Teknoloji ("Company", "we", or "platform").
 
 1-Click CancellationNo long-term commitments. Cancel anytime directly from your Billing dashboard.
@@ -62,9 +62,9 @@ Xaynx AI provides real-time digital computing resources, AI model inferences, an
 The security and privacy of user payment details are safeguarded through top-tier financial technology protocols:
 
 - **PCI-DSS Seviye 1 Sertifikasyonu:** PCI-DSS Level 1 certified architecture, the highest standard in global payment security.
-- **256-Bit TLS 1.3 Şifreleme:** All checkout sessions are encrypted end-to-end via TLS 1.3.
+- **256-Bit TLS 1.3 Encryption:** All checkout sessions are encrypted end-to-end via TLS 1.3.
 - **Zero Card Storage Policy:** Credit card numbers, expiration dates, and CVVs are NEVER logged, seen, or stored on Xaynx servers.
-- **3D Secure Doğrulama:** Two-factor authentication and 3D Secure verification prevent unauthorized charge attempts.
+- **3D Secure Verification:** Two-factor authentication and 3D Secure verification prevent unauthorized charge attempts.
 
 ---
 
