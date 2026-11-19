@@ -1,48 +1,23 @@
-# Third-Party Open-Source Notices & Attributions
+# Third-Party Notices & Attributions
 
-XaynxAI incorporates open-source software libraries, fonts, AI model frameworks, and Creative Commons assets governed by their respective licenses. All third-party trademarks, service marks, and logos remain the property of their respective owners.
-
----
-
-## 1. Open-Source Libraries & Frameworks (MIT / Apache-2.0 / ISC / BSD)
-
-- **React & React DOM** — Meta Platforms, Inc. (MIT)
-- **Vite** — Evan You & Vite Contributors (MIT)
-- **Tailwind CSS** — Tailwind Labs, Inc. (MIT)
-- **Radix UI & shadcn/ui** — WorkOS / shadcn (MIT)
-- **Lucide Icons & Tabler Icons** — Lucide Contributors (ISC) / Paweł Kuna (MIT)
-- **Monaco Editor** — Microsoft Corporation (MIT)
-- **Three.js & React Three Fiber** — Three.js Authors (MIT)
-- **Framer Motion** — Framer B.V. (MIT)
-- **KaTeX** — Khan Academy & Contributors (MIT)
-- **MapLibre GL JS** — MapLibre Contributors (BSD-3-Clause)
-- **WebLLM** — MLC-AI Contributors (Apache-2.0)
-- **PDF.js** — Mozilla Foundation (Apache-2.0)
-- **Document & Archive Utilities** (`jsPDF`, `docx`, `PptxGenJS`, `JSZip`, `Mammoth`) — MIT / BSD-2-Clause
+XaynxAI incorporates selected third-party open-source software libraries, typefaces, and Creative Commons assets governed by their respective permissive and attribution licenses (including MIT, Apache-2.0, BSD, ISC, SIL OFL 1.1, and CC-BY). All third-party trademarks, service marks, and logos remain the property of their respective owners.
 
 ---
 
-## 2. Open-Weight AI Model Attributions
+## 1. Creative Commons 3D Sample Assets (CC-BY)
 
-- **Meta Llama 3.2 / 3.3 ("Built with Llama")** — Copyright (c) Meta Platforms, Inc. Licensed under the Llama Community License.
-- **Qwen 2.5** (Alibaba Cloud, Apache-2.0) · **SmolLM2** (Hugging Face, Apache-2.0) · **DeepSeek** (DeepSeek, MIT) · **Mistral Nemo** (Mistral AI, Apache-2.0).
-
----
-
-## 3. Agent Skill Catalogs (MIT / Apache-2.0)
-
-Selected workflow guidelines are adapted under permissive open-source licenses from:
-Hugging Face Skills (Apache-2.0), OpenAI Skills (MIT / Apache-2.0), Superpowers (MIT), Vercel Agent Skills (MIT), Cloudflare Skills (MIT / Apache-2.0), Trail of Bits Security Skills (Apache-2.0 / CC-BY-SA-4.0), Stripe AI Toolkit (MIT), Firecrawl Skills (MIT), Unreal Engine Skills (MIT), Roblox Skills (MIT), Awesome Gamedev Skills (MIT), Ponytail (MIT), ComfyUI Agent Skill, and Blender Skills (MIT).
+- **Littlest Tokyo** — by Glen Fox ([artstation.com/glenatron](https://www.artstation.com/glenatron)), licensed under **Creative Commons Attribution 4.0 International (CC-BY-4.0)**.
+- **Head Scan** — by Lee Perry-Smith (Infinite-Realities), licensed under **Creative Commons Attribution 3.0 Unported (CC-BY-3.0)**.
 
 ---
 
-## 4. 3D Sample Assets (Creative Commons Attribution)
+## 2. Open-Source Typography (SIL Open Font License 1.1)
 
-- **Littlest Tokyo** — by Glen Fox ([artstation.com/glenatron](https://www.artstation.com/glenatron)), licensed under **CC-BY-4.0**.
-- **Head Scan** — by Lee Perry-Smith (Infinite-Realities), licensed under **CC-BY-3.0**.
+Geist & Geist Mono (Vercel, Inc.) · Inter (Rasmus Andersson) · Plus Jakarta Sans (Tokotype) · Outfit (Outfit.io) · JetBrains Mono (JetBrains s.r.o.) · Fira Code (Nikita Prokopov).
 
 ---
 
-## 5. Open-Source Typography (SIL Open Font License 1.1)
+## 3. Open-Source Software & Model Licenses
 
-**Geist & Geist Mono** (Vercel, Inc.) · **Inter** (Rasmus Andersson) · **Plus Jakarta Sans** (Tokotype) · **Outfit** (Outfit.io) · **JetBrains Mono** (JetBrains s.r.o.) · **Fira Code** (Nikita Prokopov).
+- Portions of XaynxAI use open-source libraries licensed under MIT, Apache-2.0, BSD, and ISC licenses, as well as open-weight model runtimes (**Built with Llama**, Meta Platforms, Inc., under the Llama Community License).
+- Full license texts for applicable open-source dependencies are available upon written request at **[contact@xaynx.com](mailto:contact@xaynx.com)**.
