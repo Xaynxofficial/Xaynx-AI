@@ -64,6 +64,6 @@ Ekip çalışma alanında yetki karmaşasını önlemek ve veri bütünlüğün�
 
 Ekip çalışma alanları yönetmeliği, kurumsal lisanslama veya veri güvenliği ile ilgili sorularınız için Hukuk ve Uyumluluk departmanımızla iletişime geçebilirsiniz:
 
-[contact@xaynx.com](mailto:contact@xaynx.com)
+[contact@xaynx.co m](mailto:contact@xaynx.co m)
 
 Xaynx AI Teknoloji A.Ş.

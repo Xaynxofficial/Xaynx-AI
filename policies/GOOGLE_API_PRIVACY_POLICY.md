@@ -37,13 +37,13 @@ Xaynx AI, Yalnızca Asgari Veri İlkesi (Data Minimization) çerçevesinde aşa�
 
 4. Yapay Zeka Modeli Eğitimi Kesin YasağıGoogle Workspace ve Gmail API'lerinden elde edilen veriler; hiçbir koşulda genel amaçlı, kamuya açık veya kişiselleştirilmemiş temel yapay zeka, makine öğrenimi veya büyük dil modellerini (LLM) eğitmek, ince ayar (fine-tuning) yapmak ya da geliştirmek amacıyla KULLANILMAZ ve üçüncü taraflara aktarılmaz.
 
-## 5. Üçüncü Taraflarla Paylaşım ve Satış Yasağı
+## 4. Üçüncü Taraflarla Paylaşım ve Satış Yasağı
 
 - **Reklam ve Pazarlama Yasağı:** Google kullanıcı verileri hiçbir reklam ağına, reklam hedefleme motoruna veya pazarlama platformuna aktarılmaz.
 - **Veri Satışı Yasağı:** Google kullanıcı verileri hiçbir kişi, kurum veya veri simsarına satılamaz, kiralanamaz veya takas edilemez.
 - **İnsan Tarafından İnceleme Sınırlaması:** Şirket çalışanlarımız kullanıcıların e-posta içeriklerini okuyamaz veya inceleyemez. Yalnızca kullanıcının açık teknik destek talebi veya yasal zorunluluk halleri istisnadır.
 
-## 6. Erişim İptali ve Veri İmhası (Revocation & Deletion)
+## 5. Erişim İptali ve Veri İmhası (Revocation & Deletion)
 
 Kullanıcılar, Xaynx AI'a verdikleri Google erişim yetkisini iki kolay yöntemle anında sonlandırabilirler:
 
@@ -51,12 +51,12 @@ Kullanıcılar, Xaynx AI'a verdikleri Google erişim yetkisini iki kolay yöntem
 
 **Yöntem 2: Google Hesap Güvenliği**Doğrudan [Google İzinler Sayfası](https://myaccount.google.com/permissions) üzerinden \"xaynx\" uygulamasının erişimini tek tıkla iptal edebilirsiniz.
 
-## 7. İletişim ve Resmi Başvurular
+## 6. İletişim ve Resmi Başvurular
 
 Google API veri taahhütlerimiz, gizlilik sorularınız veya veri silme talepleriniz için resmi iletişim kanallarımız:
 
 Xaynx AI Teknoloji A.Ş.
 
-Email: [contact@xaynx.com](mailto:contact@xaynx.com)
+Email: [contact@xaynx.co m](mailto:contact@xaynx.co m)
 
 General Privacy Policy: [https://xaynxai.com/privacy](/privacy)

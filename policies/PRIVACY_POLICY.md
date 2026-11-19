@@ -31,6 +31,10 @@ Google API'lerinden alınan bilgilerin kullanımı ve diğer uygulamalara aktar�
 
 **Google Workspace & AI Modelleri:** Xaynx AI, Google Workspace API'lerinden (Gmail, Google Takvim, Google Drive) elde edilen verileri genelleştirilmiş yapay zeka ve makine öğrenimi modellerini eğitmek, geliştirmek veya ince ayar (fine-tuning) yapmak amacıyla kesinlikle kullanmaz.
 
+**Diğer Üçüncü Taraf OAuth Eklentileri (GitHub, LinkedIn, Slack, Notion, Spotify, Canva, Epic Games):** Eklentiler (/extensions) sayfasından bağladığınız tüm üçüncü taraf servisler yalnızca sizin açık OAuth onayınızla etkinleşir, erişim belirteçleri şifreli olarak saklanır ve yalnızca talep ettiğiniz komutları yerine getirmek için kullanılır. Dilediğiniz zaman Eklentiler sayfasından tek tıkla bağlantıyı keserek erişimi kalıcı olarak iptal edebilirsiniz.
+
+**Otonom Ajanlar ve Zamanlanmış Arka Plan Çalışması:** Oluşturduğunuz ve aktif bıraktığınız zamanlanmış otonom ajanlar, siz sitede çevrimdışı olsanız dahi belirlediğiniz takvime göre bulut sunucularımızda (Cloudflare Workers) otomatik olarak çalışabilir ve ürettiği raporları ilgili sohbetinize kaydedebilir. Ajanları dilediğiniz an duraklatabilir veya kalıcı olarak silebilirsiniz.
+
 ---
 
 ## Kişisel Verileri Nasıl Kullanıyoruz
@@ -47,7 +51,7 @@ Kişisel Verileri aşağıdaki amaçlarla kullanabiliriz:
 
 ---
 
-## 4. Saklama ve Otomatik İmha
+## Saklama ve Otomatik İmha
 
 Kişisel Verilerinizi, Hizmetlerimizi size sunmak veya anlaşmazlıkları çözmek, güvenlik nedenleri ya da yasal yükümlülüklerimize uymak gibi diğer meşru iş amaçları için yalnızca ihtiyaç duyduğumuz süre boyunca saklayacağız. Kişisel Verileri ne kadar süreyle sakladığımız, verinin türüne ve onu nasıl kullandığımıza bağlıdır:
 
@@ -81,7 +85,7 @@ Bulunduğunuz yere ve geçerli veri koruma yasalarına (KVKK, GDPR, CCPA) bağl�
 ## Yapay Zekâ Şeffaflığı (EU AI Act m. 50) ve AB/AEA Gizlilik İletişimi (GDPR m. 27)
 
 - **Yapay Zekâ Etkileşimi ve Sentetik İçerik Bildirimi (EU AI Act m. 50):** Platformumuzda sohbet, kod üretimi, ses, görsel ve video stüdyosu dahil tüm üretken araçlarda doğrudan yapay zekâ sistemleriyle etkileşim kurarsınız. Oluşturulan metin, görsel, ses ve video çıktıları yapay zekâ tarafından sentetik olarak üretilmektedir.
-- **AB/AEA Veri Sahipleri ve Denetim Makamları İletişimi (GDPR m. 27):** Avrupa Ekonomik Alanı (AEA) ve Birleşik Krallık'ta ikamet eden kullanıcılarımız ve ilgili veri koruma otoriteleri, GDPR kapsamındaki tüm erişim, silme, taşınabilirlik ve itiraz taleplerini doğrudan Gizlilik Masamıza (contact@xaynx.com — Konu: GDPR Inquiry) iletebilir; tüm başvurular yasal 30 günlük süre içinde yanıtlanır.
+- **AB/AEA Veri Sahipleri ve Denetim Makamları İletişimi (GDPR m. 27):** Avrupa Ekonomik Alanı (AEA) ve Birleşik Krallık'ta ikamet eden kullanıcılarımız ve ilgili veri koruma otoriteleri, GDPR kapsamındaki tüm erişim, silme, taşınabilirlik ve itiraz taleplerini doğrudan Gizlilik Masamıza (contact@xaynx.co m — Konu: GDPR Inquiry) iletebilir; tüm başvurular yasal 30 günlük süre içinde yanıtlanır.
 
 ---
 
@@ -89,4 +93,4 @@ Bulunduğunuz yere ve geçerli veri koruma yasalarına (KVKK, GDPR, CCPA) bağl�
 
 Gizlilik uygulamalarımız, kişisel verileriniz veya bu Gizlilik Politikası ile ilgili herhangi bir sorunuz ya da talebiniz varsa lütfen bizimle iletişime geçin:
 
-[contact@xaynx.com](mailto:contact@xaynx.com)
+[contact@xaynx.co m](mailto:contact@xaynx.co m)

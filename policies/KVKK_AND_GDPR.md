@@ -33,7 +33,7 @@ Kişisel verileriniz, KVKK'nın 5. maddesinin 2. fıkrası ve GDPR Madde 6'da ö
 
 ## 3. Kişisel Verilerin Aktarılması
 
-Kişisel verileriniz, KVKK’nın 8. ve 9. maddeleri ile GDPR Bölüm V hükümleri çerçevesinde; teknik altyapı ve bulut depolama/veritabanı sağlayıcıları (Cloudflare, Inc. - D1 & R2), kimlik doğrulama hizmeti sunucuları (Clerk, Inc.), ödeme altyapısı sağlayıcıları (Lemon Squeezy, LLC ve Shopier - PCI-DSS uyumlu ödeme ağ geçitleri), e-posta iletim altyapısı (Resend) ve kurumsal yapay zeka çıkarım sağlayıcıları (Google LLC - Gemini API, OpenAI, Groq, OpenRouter) ile standart sözleşme hükümleri (SCC) ve şifreli kanallar tahtında paylaşılmaktadır. Yasal zorunluluk halinde yetkili adli ve idari mercilerle mevzuata uygun olarak aktarım gerçekleştirilir.
+Kişisel verileriniz, KVKK’nın 8. ve 9. maddeleri ile GDPR Bölüm V hükümleri çerçevesinde; teknik altyapı, otonom ajan zamanlayıcısı ve bulut depolama/veritabanı sağlayıcıları (Cloudflare, Inc. - D1, R2 ve Workers), yüksek erişilebilirlik ve felaket kurtarma yedekleme sunucusu (Contabo GmbH - AB), kimlik doğrulama hizmeti sunucuları (Clerk, Inc.), ödeme altyapısı sağlayıcıları (Lemon Squeezy, LLC ve Shopier - PCI-DSS uyumlu ödeme ağ geçitleri), e-posta iletim altyapısı (Resend) ve kurumsal yapay zeka çıkarım sağlayıcıları (Google LLC - Gemini API, OpenAI, Groq, OpenRouter) ile standart sözleşme hükümleri (SCC) ve şifreli kanallar tahtında paylaşılmaktadır. Ayrıca yalnızca Kullanıcının açık OAuth onayıyla bağladığı üçüncü taraf eklentiler (Google Workspace, GitHub, LinkedIn, Slack, Notion, Spotify, Canva, Epic Games) kapsamındaki veriler ilgili API'ler üzerinden yalnızca talep edilen işlem için işlenir ve bağlantı tek tıkla iptal edilebilir. Yasal zorunluluk halinde yetkili adli ve idari mercilerle mevzuata uygun olarak aktarım gerçekleştirilir.
 
 ---
 
@@ -57,4 +57,4 @@ KVKK'nın 11. maddesi ve GDPR düzenlemeleri uyarınca veri sahipleri, Şirketim
 
 Yukarıda belirtilen haklarınıza ilişkin taleplerinizi yazılı olarak veya sistemimizde kayıtlı e-posta adresiniz üzerinden Şirketimize iletebilirsiniz. Başvurularınız mevzuat gereğince en geç 30 (otuz) gün içerisinde ücretsiz olarak sonuçlandırılacaktır.
 
-[contact@xaynx.com](mailto:contact@xaynx.com)
+[contact@xaynx.co m](mailto:contact@xaynx.co m)

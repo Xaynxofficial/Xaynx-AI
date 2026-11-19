@@ -53,7 +53,7 @@ Xaynx AI; anlık GPU işlem altyapısı, yapay zeka model çıkarımları (infer
 
 - **İlk 14 Gün İçinde Tam İade Güvencesi:** Satın alma tarihinden itibaren ilk 14 takvim günü içerisinde; sistem kaynaklı teknik arızalar, platform servislerine erişememe, mükerrer (çift) kart tahsilatları veya yanlış paket seçimi gibi durumlarda koşulsuz tam iade gerçekleştirilir.
 - **Adil Kullanım ve Aşırı Tüketim İstisnası:** Kullanıcı abonelik süresi boyunca ilgili pakete tahsis edilen aylık yapay zeka token veya GPU işlem limitinin kayda değer bir bölümünü (örneğin %50'den fazlasını) aktif olarak tüketmişse, iade talepleri orantılı (pro-rata) veya mücbir gerekçelere göre istisnai olarak değerlendirilebilir.
-- **İade Talebi Başvuru Süreci:** İade başvurusu için kayıtlı e-posta adresiniz, sipariş referans kodunuz ve fatura numaranızla birlikte contact@xaynx.comadresine e-posta göndermeniz yeterlidir. İnceleme 24-48 saat içerisinde tamamlanır ve onaylanan tutar bankanızın takvimine göre 3-7 iş günü içinde kartınıza iade edilir.
+- **İade Talebi Başvuru Süreci:** İade başvurusu için kayıtlı e-posta adresiniz, sipariş referans kodunuz ve fatura numaranızla birlikte contact@xaynx.comadresin e e-posta göndermeniz yeterlidir. İnceleme 24-48 saat içerisinde tamamlanır ve onaylanan tutar bankanızın takvimine göre 3-7 iş günü içinde kartınıza iade edilir.
 
 ---
 

@@ -50,6 +50,6 @@ Platformumuzda istemci tarafında tutulan temel çerez ve yerel depolama anahtar
 
 İşbu Çerez Politikası veya çerez yönetimi ile ilgili tüm sorularınız için bizimle iletişime geçebilirsiniz:
 
-[contact@xaynx.com](mailto:contact@xaynx.com)
+[contact@xaynx.co m](mailto:contact@xaynx.co m)
 
 Xaynx AI Teknoloji A.Ş.

@@ -38,4 +38,4 @@ Xaynx AI, her yaştan kullanıcının dijital güvenliğini korumayı ve yapay z
 
 Bir ebeveyn veya yasal vasi, izni olmadan 15 yaş ve altındaki bir çocuğa ait hesap oluşturulduğunu fark ederse; hesabın derhal kapatılmasını ve ilişkili tüm verilerin kalıcı olarak silinmesini talep edebilir. Başvurular en kısa sürede incelenerek sonuçlandırılır:
 
-[contact@xaynx.com](mailto:contact@xaynx.com)
+[contact@xaynx.co m](mailto:contact@xaynx.co m)

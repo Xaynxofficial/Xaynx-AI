@@ -101,6 +101,6 @@ Kullanıcılar cihaz takip verilerini istedikleri her an kendi kontrolleriyle s�
 
 Cihaz Takip Merkezi güvenlik standartları, donanım uyumluluğu veya bu politika ile ilgili her türlü soru ve teknik bildirimleriniz için Güvenlik ve Uyumluluk Ekibimizle iletişime geçebilirsiniz:
 
-[contact@xaynx.com](mailto:contact@xaynx.com)
+[contact@xaynx.co m](mailto:contact@xaynx.co m)
 
 Xaynx AI Teknoloji A.Ş. • Cihaz Güvenliği & Kriptografi Birimi

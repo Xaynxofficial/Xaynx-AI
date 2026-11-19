@@ -39,10 +39,10 @@ Vitrine gönderilen içerik belirli bir kalite seviyesini karşılamalıdır:
 - Lisans gerektiren logo, marka, karakter veya başka eserler konusunda gerekli izinler alınmış olmalıdır.
 - Başka bir kişinin eserini kendi üretimiymiş gibi göstermek yasaktır.
 - Görselin yapay zekâ ile üretildiği gerektiğinde açıkça belirtilmelidir.
-- Kural ihlali tespit edilen görseller yöneticiler tarafından vitrinden kaldırılabilir. Kendi paylaştığınız bir görselin kaldırılmasını istediğinizde [contact@xaynx.com](mailto:contact@xaynx.com) üzerinden kaldırma talebinde bulunabilirsiniz.
+- Kural ihlali tespit edilen görseller yöneticiler tarafından vitrinden kaldırılabilir. Kendi paylaştığınız bir görselin kaldırılmasını istediğinizde [contact@xaynx.co m](mailto:contact@xaynx.co m) üzerinden kaldırma talebinde bulunabilirsiniz.
 
 ## D. Üçüncü Kişi Yüzleri ve Bireysel Sorumluluk
 
 XaynxAI Vitrin alanında paylaşılan tüm görseller, ilgili kullanıcının kendi talebi ve onayıyla yayımlanır. Bir kullanıcının başka bir kişiye ait yüzü, kimliği veya kişisel görüntüyü ilgili kişinin açık izni olmaksızın üretmesi ve vitrinde paylaşması durumunda doğabilecek her türlü hukuki, cezai ve manevi sorumluluk tamamen görseli paylaşan kullanıcıya aittir; XaynxAI bu tür izinsiz paylaşımlardan sorumlu tutulamaz.
 
-İzinsiz kullanıldığını düşündüğünüz bir görselle karşılaşırsanız [contact@xaynx.com](mailto:contact@xaynx.com) adresine bildirimde bulunmanız hâlinde içerik incelenerek en kısa sürede vitrinden kaldırılır.
+İzinsiz kullanıldığını düşündüğünüz bir görselle karşılaşırsanız [contact@xaynx.co m](mailto:contact@xaynx.co m) adresine bildirimde bulunmanız hâlinde içerik incelenerek en kısa sürede vitrinden kaldırılır.

@@ -50,7 +50,7 @@ Xaynx AI platformu üzerinde web sitesi, web uygulaması veya dijital arayüz ya
 - Sağlanan veriler yalnızca hizmetin barındırılması, DNS yönlendirmesi, SSL sertifikasyonu ve siber güvenlik amacıyla işlenir.
 - Yayınlanan sitelere ilişkin veriler, kanuni zorunluluk bulunmadıkça üçüncü şahıslara veya reklam ağlarına devredilmez.
 - Ziyaretçi ve erişim logları 5651 sayılı Kanun'un öngördüğü yasal saklama süreleri boyunca şifreli ortamlarda muhafaza edilir.
-- KVKK ve GDPR kapsamındaki tüm haklarınız için doğrudan contact@xaynx.com adresi üzerinden talepte bulunabilirsiniz.
+- KVKK ve GDPR kapsamındaki tüm haklarınız için doğrudan contact@xaynx.co m adresi üzerinden talepte bulunabilirsiniz.
 
 ---
 
@@ -80,6 +80,6 @@ Platformumuz üzerinde barındırılan herhangi bir sitenin (ör. /s/:slug) huku
 - İhlal edildiği iddia edilen sitenin tam URL adresi ve içeriğin açık tanımı;
 - Hukuki gerekçe (telif hakkı, marka, kişilik hakkı ihlali veya yasadışı içerik açıklaması) ve başvuranın iletişim bilgileri ile iyi niyet beyanı.
 
-[contact@xaynx.com](mailto:contact@xaynx.com)
+[contact@xaynx.co m](mailto:contact@xaynx.co m)
 
 Xaynx AI Teknoloji A.Ş. Hukuk & Güvenlik Birimi
