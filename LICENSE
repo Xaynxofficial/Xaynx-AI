@@ -1,0 +1,38 @@
+PROPRIETARY AND CONFIDENTIAL COMMERCIAL SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 Xaynx AI (Xaynx). All Rights Reserved.
+
+IMPORTANT - READ CAREFULLY:
+This Proprietary Commercial Software License Agreement ("Agreement") is a legally binding agreement between the licensee/user and Xaynx AI ("Owner", "Author", "Company"). This software, including all source code, compiled code, user interfaces, algorithms, AI prompts, training workflows, schemas, logic, visual assets, documentation, and architecture (collectively, the "Software"), is protected by domestic and international copyright, trade secret, trademark, patent, and other intellectual property laws and treaties.
+
+1. PROPRIETARY RIGHTS AND OWNERSHIP
+The Software is licensed, NOT sold. All title, copyright, intellectual property rights, ownership, and moral rights in and to the Software and any copies, modifications, or derivative works thereof remain exclusively with Xaynx AI. No title or ownership of the Software or any associated rights is transferred under any circumstances.
+
+2. STRICT USAGE & ACCESS RESTRICTIONS
+You may NOT under any circumstances, directly or indirectly:
+  a. Copy, duplicate, reproduce, distribute, publish, transmit, or sub-license the Software or any portion thereof.
+  b. Decompile, disassemble, reverse engineer, decrypt, extract, or attempt to derive the source code, underlying ideas, algorithms, or structural framework of the Software.
+  c. Create derivative works, modifications, translations, adaptations, or enhancements based upon the Software.
+  d. Use the Software, its architecture, prompts, UI/UX design patterns, or feature concepts to develop, train, benchmark, or assist in the development of a competing product, service, or artificial intelligence platform.
+  e. Rent, lease, lend, sell, sublicense, assign, distribute, host, outsource, or commercially exploit the Software to any third party without express, written, prior authorization signed by Xaynx AI.
+  f. Remove, obscure, alter, or deface any proprietary notices, copyright notices, trademarks, watermarks, or confidentiality warnings contained within or displayed by the Software.
+
+3. CONFIDENTIALITY AND TRADE SECRETS
+The Software contains valuable trade secrets, confidential algorithms, proprietary methodologies, and undisclosed business logic belonging to Xaynx AI. Any person or entity obtaining authorized or unauthorized access to the Software is bound by strict confidentiality obligations and shall maintain the strictest secrecy, taking all reasonable precautions to prevent unauthorized disclosure, leakage, or exposure.
+
+4. ARTIFICIAL INTELLIGENCE & DATA INTEGRITY CLAUSE
+No portion of the Software, its source code, logic, internal system prompts, dataset structures, or API payloads may be fed into public machine learning models, code scrapers, or automated AI trainers without explicit written consent from Xaynx AI.
+
+5. TERMINATION AND REMEDIES FOR BREACH
+Any unauthorized access, copying, distribution, or violation of this Agreement immediately terminates any granted permission and constitutes willful infringement of intellectual property and trade secret laws. Xaynx AI reserves the right to seek all available legal, equitable, injunctive, and monetary relief (including statutory damages, actual damages, lost profits, and attorney's fees) under applicable local and international courts.
+
+6. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER, AUTHORS, OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF USE, DATA, REVENUE, OR PROFITS) ARISING IN ANY WAY OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE.
+
+7. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by, construed, and enforced in accordance with applicable intellectual property laws, the Berne Convention, the WIPO Copyright Treaty, and international copyright regulations.
+
+-------------------------------------------------------------------------------
+For inquiries, enterprise licensing, or explicit written permissions:
+Contact: Xaynx AI (https://github.com/Xaynxofficial)
+-------------------------------------------------------------------------------
